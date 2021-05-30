@@ -1,0 +1,3 @@
+[submodule "silicon"]
+	path = silicon
+	url = git@github.com:aps-oltre/silicon.git
