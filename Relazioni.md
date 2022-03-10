@@ -1,0 +1,1 @@
+Ci sono una valanga di enti e associazioni con cui collaboriamo. I più importanti sono annoverati nella pagina *[Relazioni](https://scambi.org/relazioni 'Pagina “Relazioni” su scambi.org')* sul sito, ma qui di seguito affronteremo più informalmente l’identità di ciascuno di essi.
