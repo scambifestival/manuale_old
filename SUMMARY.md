@@ -14,6 +14,7 @@
   * [🎨 Color Palette](design/color-palette.md)
   * [🖼 Processo di creazione grafica](design/processo-di-creazione-grafica.md)
   * [🖼 Graphic creation workflow](design/graphic-creation-workflow.md)
+* [👕 Merchandising](merchandising.md)
 * [💑 Associazione](associazione/README.md)
   * [📄 Statuto dell’APS Oltre](associazione/statuto-dellaps-oltre.md)
   * [📩 Iscrizione nuovə sociə](associazione/iscrizione-nuov-soci.md)
