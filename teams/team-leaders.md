@@ -11,7 +11,7 @@ Ogni team ha un proprio referente, il cui ruolo non è di prendere decisioni, di
 
 * quali sono gli **obiettivi** per il mio team, nel breve-medio termine?
 * in quale **direzione** il mio gruppo sta andando? Corrisponde a quella che dovremmo avere secondo il punto precedente?
-* **cosa** e **quanto** stanno facendo i singoli membri del mio gruppo?
+* **cosa** e **quanto** stanno facendo i singoli membri del mio gruppo? Sto avendo con loro il rapporto individuale sufficiente a stimolarli?
 * cosa stanno facendo gli **altri team** e come possiamo combinare al meglio il nostro lavoro con il loro?
 
 Rispondere alle precedenti domande deve servire ad avere una chiara visione del da farsi e per poter lavorare al meglio, non per cazziare le persone se non stanno facendo quello che dovrebbero. Lo scopo fondamentale è avere una chiara e complessiva **consapevolezza**, ovvero tenere i due capi del gomitolo.
