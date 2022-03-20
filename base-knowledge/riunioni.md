@@ -6,7 +6,7 @@ description: Come funzionano gli incontri fra i membri dello staff
 
 Le riunioni generali sono incontri **bisettimanali** a cui sono tenuti a partecipare **tutti i membri** **attivi**. Durante l’anno sono prevalentemente online o ibride (quando chi è a Sanremo riesce ad organizzarsi per incontrarsi di persona).
 
-Queste riunioni sono fondamentali per aggiornarsi e confrontarsi. I singoli [gruppi](../gruppi.md) sono invitati a portare proprie difficoltà o suggerimenti.
+Queste riunioni sono fondamentali per aggiornarsi e confrontarsi. I singoli [gruppi](../teams/) sono invitati a portare proprie difficoltà o suggerimenti.
 
 Tutte le riunioni vengono riassunte in verbali che sono raccolti su Nuvola, in [questa cartella](https://nuvola.scambi.org/f/1114).
 
