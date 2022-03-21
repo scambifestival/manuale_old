@@ -5,10 +5,10 @@
 1. **PAGAMENTO**: versare 20€ ad `A.P.S Oltre`, in due possibili modi:
    * via bonifico all’IBAN `IT63E0501801400000016986952`
    * [via PayPal](https://manuale.scambi.org/paypal.me/apsoltre) a `palanche@scambi.org`, specificando sempre che è preferibile utilizzare la modalità di trasferimento denaro <mark style="background-color:yellow;">amici e famiglia</mark>, per non pagare la commissione
-2. **LIBERATORIE**: compilare e caricare nella cartella “[documentazione soci](https://nuvola.scambi.org/f/118956)”:
-   * il modulo per il trattamento dati
-   * il modulo per il trattamento immagini
-   * l’accordo di riservatezza, con cui il socio si impegna a non salvarsi e a non diffondere dati sensibili che manipola lavorando per l’associazione
+2. **LIBERATORIE**: compilare e caricare nella cartella “[documentazione soci](https://nuvola.scambi.org/f/118956)” (NOTA: utilizzare sempre la <mark style="background-color:yellow;">versione in PDF</mark>):
+   * la [liberatoria per il trattamento dei dati](https://nuvola.scambi.org/s/RHPnZDRwJGAemtq), con cui il socio permette all’A.P.S. Oltre di conservare i suoi dati
+   * la [liberatoria per il trattamento delle immagini](https://nuvola.scambi.org/s/RHPnZDRwJGAemtq), con cui il socio permette all’A.P.S. Oltre di conservare e condividere sue immagini
+   * l’[accordo di riservatezza](https://nuvola.scambi.org/s/fkSYNNW7c9idwoq), con cui il socio si impegna a non salvare privatamente e a non diffondere dati sensibili con cui ha a che fare lavorando per l’associazione
 3. **LIBRO SOCI**: aggiungere il nuovo iscritto al [libro soci](https://nuvola.scambi.org/f/15851)
 4. **ORGANIGRAMMA**: aggiungere e posizionare lə nuovə sociə nel [board con l’organigramma](https://excalidraw.com/#room=070376fd2cc858d3ca9d,2ni3CTKNyeORDgZADqthww) del nostro staff.
 5. **CHAT**: su Telegram, aggiungere a:
