@@ -2,13 +2,13 @@
 
 ### Sociə attivə
 
-1. **PAGAMENTO**: versare 20€ ad “A.P.S Oltre„:
-   1. via bonifico all’IBAN `IT63E0501801400000016986952`
-   2. [via PayPal](https://manuale.scambi.org/paypal.me/apsoltre) a `palanche@scambi.org` (specificare sempre che è preferibile utilizzare la modalità di invio amici e famiglia, per non pagare la commissione)
+1. **PAGAMENTO**: versare 20€ ad `A.P.S Oltre`, in due possibili modi:
+   * via bonifico all’IBAN `IT63E0501801400000016986952`
+   * [via PayPal](https://manuale.scambi.org/paypal.me/apsoltre) a `palanche@scambi.org`, specificando sempre che è preferibile utilizzare la modalità di trasferimento denaro <mark style="background-color:yellow;">amici e famiglia</mark>, per non pagare la commissione
 2. **LIBERATORIE**: compilare e caricare nella cartella “[documentazione soci](https://nuvola.scambi.org/f/118956)”:
    * il modulo per il trattamento dati
    * il modulo per il trattamento immagini
-   * l’accordo di riservatezza
+   * l’accordo di riservatezza, con cui il socio si impegna a non salvarsi e a non diffondere dati sensibili che manipola lavorando per l’associazione
 3. **LIBRO SOCI**: aggiungere il nuovo iscritto al [libro soci](https://nuvola.scambi.org/f/15851)
 4. **ORGANIGRAMMA**: aggiungere e posizionare lə nuovə sociə nel [board con l’organigramma](https://excalidraw.com/#room=070376fd2cc858d3ca9d,2ni3CTKNyeORDgZADqthww) del nostro staff.
 5. **CHAT**: su Telegram, aggiungere a:
