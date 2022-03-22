@@ -9,7 +9,7 @@
    * la [liberatoria per il trattamento dei dati](https://nuvola.scambi.org/s/RHPnZDRwJGAemtq), con cui il socio permette all’A.P.S. Oltre di conservare i suoi dati
    * la [liberatoria per il trattamento delle immagini](https://nuvola.scambi.org/s/RHPnZDRwJGAemtq), con cui il socio permette all’A.P.S. Oltre di conservare e condividere sue immagini
    * l’[accordo di riservatezza](https://nuvola.scambi.org/s/fkSYNNW7c9idwoq), con cui il socio si impegna a non salvare privatamente e a non diffondere dati sensibili con cui ha a che fare lavorando per l’associazione
-3. **LIBRO SOCI**: aggiungere il nuovo iscritto al [libro soci](https://nuvola.scambi.org/f/15851)
+3. **LIBRO SOCI**: aggiungere il nuovo iscritto al libro soci
 4. **ORGANIGRAMMA**: aggiungere e posizionare lə nuovə sociə nel [board con l’organigramma](https://excalidraw.com/#room=070376fd2cc858d3ca9d,2ni3CTKNyeORDgZADqthww) del nostro staff.
 5. **CHAT**: su Telegram, aggiungere a:
    * Canale [_Scambi Festival_](https://t.me/scambifestival)
@@ -19,9 +19,9 @@
    * _Scambi Off Topic_, su Whatsapp
    * Gruppi di appartenenza
 6. **CONTATTI**: aggiungerli ai [contatti su Nuvola](https://nuvola.scambi.org/apps/contacts)
-7. **NEWSLETTER**: iscriverlə alla [newsletter](https://buttondown.email/scambi)
-8. **NUVOLA**: creare un utente Nuvola (creato da Alessandro).
-9. **WORDPRESS**: creare un account su Wordpress (creato da Alessandro), a cui il nuovo iscritto deve aggiungere
+7. **NEWSLETTER**: iscriverlə alla newsletter, seguendo [queste istruzioni](../base-knowledge/piattaforme-e-strumenti/buttondown.md) e assegnando il tag `sociə` al nuovo iscritto. Assegnare il tag è fondamentale per assicurarsi che le comunicazioni ufficiali con i soci arrivino correttamente a tutti
+8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](../teams/#paguri))
+9. **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](../teams/#paguri)), a cui il nuovo iscritto deve aggiungere
    * Foto
    * Biografia
 
