@@ -22,5 +22,6 @@ Fra i valori fondamentali della [filosofia di Scambi](https://scambi.org/manifes
 * ****[**Buttondown**](https://buttondown.email) è il servizio che utilizziamo per inviare [_Scambi Epistolari_](https://epistulae.scambi.org), la nostra **newsletter**. Per utilizzarlo, fare riferimento a [questo tutorial](../comunicazione.md#newsletter).
 * ****[**GitBook**](https://gitbook.com) è la piattaforma che stai utilizzando per leggere il manuale. Per contribuire a scrivere le pagine, visita _Scambi IMPORTANTE_ e cerca fra i messaggi pinnati il link per modificare.
 * ****[**Canva**](https://canva.com) è lo strumento utilizzato principalmente dalle [Libellule](../teams/#libellule) per creare le grafiche dei nostri post. Utilizziamo Canva Premium, perciò se dedideri avere l’accesso fatti inviare un link dai membri del team.
+* Su [**images.tommi.space**](https://images.tommi.space/index?/category/scambi-festival) sono temporaneamente raccolte tutte le foto (esclusivamente immagini, non video) di tutte le edizioni di Scambi, ordinate e selezionate per genere di evento e attività. Il software utilizzato è [Piwigo](https://piwigo.org).
 
 Per qualunque problema tecnico, compilare immediatamente [questo modulo](https://nuvola.scambi.org/apps/forms/qtqRxnSic6fTpmKk) e contattare il gruppo [Silicon](../teams/#silicon).
