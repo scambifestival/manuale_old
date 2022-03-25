@@ -12,7 +12,7 @@ Per spiegare in poche parole cosa Markdown sia, Wikipedia è perfetta:
 
 ### A cosa ci serve
 
-In particolare, a noi serve per formattare i contenuti di scambi.org e [la nostra newsletter](buttondown.md), insieme a molti altri casi in cui però la sua presenza è meno percettibile.
+In particolare, a noi serve per formattare i contenuti di scambi.org e [la nostra newsletter](../base-knowledge/piattaforme-e-strumenti/buttondown.md), insieme a molti altri casi in cui però la sua presenza è meno percettibile.
 
 ### Come si usa
 

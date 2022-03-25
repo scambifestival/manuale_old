@@ -19,7 +19,7 @@ Fra i valori fondamentali della [filosofia di Scambi](https://scambi.org/manifes
   * _**Scambidee**_, dove ciascuno può condividere ogni genere di idea relativa a Scambi
   * Ogni [team](../../teams/) ha il proprio gruppo specifico
 * ****[**Cubbit**](https://web.cubbit.io) è il nostro archivio: qui vengono salvati tutti i nostri video e le nostre foto, così come tutti i file più pesanti.
-* ****[**Buttondown**](https://buttondown.email) è il servizio che utilizziamo per inviare [_Scambi Epistolari_](https://epistulae.scambi.org), la nostra **newsletter**. Per utilizzarlo, fare riferimento a [questo tutorial](../../comunicazione.md#newsletter).
+* ****[**Buttondown**](https://buttondown.email) è il servizio che utilizziamo per inviare [_Scambi Epistolari_](https://epistulae.scambi.org), la nostra **newsletter**. Per utilizzarlo, fare riferimento a [questo tutorial](../../comunicazione/#newsletter).
 * ****[**GitBook**](https://gitbook.com) è la piattaforma che stai utilizzando per leggere il manuale. Per contribuire a scrivere le pagine, visita _Scambi IMPORTANTE_ e cerca fra i messaggi pinnati il link per modificare.
 * ****[**Canva**](https://canva.com) è lo strumento utilizzato principalmente dalle [Libellule](../../teams/#libellule) per creare le grafiche dei nostri post. Utilizziamo Canva Premium, perciò se dedideri avere l’accesso fatti inviare un link dai membri del team.
 * Su [**images.tommi.space**](https://images.tommi.space/index?/category/scambi-festival) sono temporaneamente raccolte tutte le foto (esclusivamente immagini, non video) di tutte le edizioni di Scambi, ordinate e selezionate per genere di evento e attività. Il software utilizzato è [Piwigo](https://piwigo.org).
