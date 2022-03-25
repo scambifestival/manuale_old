@@ -18,3 +18,10 @@ In particolare, a noi serve per formattare i contenuti di scambi.org e [la nostr
 
 &#x20;sufficiente fare una ricerca online per capire il modo più conveniente per scrivere in Markdown, perché è anche piuttosto soggettivo. L’editor più semplice è [Typora](https://typora.io).\
 Tuttavia, noi possiamo usufruire dell’editor di default di [_Nuvola_](https://nuvola.scambi.org), che è piuttosto semplice e funziona perfettamente, permettandoci di modificare qualunque cosa senza spostarci dal nostro bellisimo cloud.
+
+#### Sintassi
+
+La sintassi di Markdown è molto semplice, ma bisogna allenarsi un po’ per riuscire a utilizzarla con naturalezza. Di seguito alcune risorse:
+
+* [What is Markdown?](https://www.markdownguide.org/getting-started/)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
