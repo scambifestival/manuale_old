@@ -37,7 +37,7 @@ Le Ghiandaie sono il team dedicato all’accessibilità. Il loro obiettivo è re
 
 ### Silicon
 
-L’unico gruppo _outsourced_, cioè composto da persone che non sono necessariamente ufficialmente parte dell’associazione. Hanno messo su e mantengono tutta la straordinaria [struttura tecnologica](../base-knowledge/piattaforme-e-strumenti/) di Scambi.
+L’unico gruppo _outsourced_, cioè composto da persone che non sono necessariamente ufficialmente parte dell’associazione. Hanno messo su e mantengono tutta la straordinaria [struttura tecnologica](../piattaforme-e-strumenti/) di Scambi.
 
 ### Paguri
 
