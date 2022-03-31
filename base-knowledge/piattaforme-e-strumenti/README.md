@@ -8,11 +8,12 @@ Fra i valori fondamentali della [filosofia di Scambi](https://scambi.org/manifes
 
 * ****[**scambi.org**](https://scambi.org) è il sito ufficiale di _Scambi Festival_
 * ****[**blog.scambi.org**](https://blog.scambi.org) è il nostro blog basato su Wordpress, a cui si accede da [qui](https://blog.scambi.org/wp-admin). La creazione e la pubblicazione di ogni articolo sono coordinate dalle [Chiocciole](../../teams/#chiocciole).
-* ****[_**Nuvola**_](https://nuvola.scambi.org) è il nostro cloud, basato su Nextcloud. Funziona come Google Drive. Inoltre, Nuvola ha diverse applicazioni interne che facilitano la collaborazione fra di noi.
+* ****[_**Nuvola**_](https://nuvola.scambi.org) è il nostro cloud, basato su Nextcloud ([**scarica l’app**](https://nextcloud.com/install/#install-clients)**!**). Funziona come Google Drive (coff coff). Inoltre, Nuvola ha diverse applicazioni interne che facilitano la collaborazione fra di noi.
   * Tramite [_**Deck**_](https://nuvola.scambi.org/apps/deck/) è possibile organizzare le cose da fare, assegnarle a persone e impostare scadenze e tag
   * Su [_**Passwords**_](https://nuvola.scambi.org/apps/passwords/) sono salvate tutte le credenziali per ogni nostro servizio online. È possibile condividerle fra gli utenti di Nuvola
   * Il [**Calendario**](https://nuvola.scambi.org/apps/calendar/) contiene tutti gli appuntamenti di Scambi, che siano riunioni, incontri con ospiti o eventi
   * Con [_**Moduli**_](https://nuvola.scambi.org/apps/forms/) possono essere creati dei semplici ma estremamente utili sondaggi, come su Google Forms.
+  * Utilizziamo _Collabora Office_ ([**scarica l’app**](https://www.collaboraoffice.com/solutions/collabora-office-android-ios/)**!**) per abilitare la modifica collaborativa dei documenti (come Google Docs, coff coff)
 * **Telegram** è mezzo di comunicazione principale. TUTTE le comunicazioni relative a Scambi hanno luogo su questa piattaforma. I gruppi principali sono:
   * _**Scambi STAFF**_, dove avviene la conversazione generale
   * _**Scambi IMPORTANTE**_, dove vengono inviate comunicazioni unilaterali importanti, la cui discussione deve però procedere su STAFF
