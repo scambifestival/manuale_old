@@ -23,3 +23,4 @@
 * [🖥 Piattaforme e strumenti](base-knowledge/piattaforme-e-strumenti/README.md)
   * [Buttondown](base-knowledge/piattaforme-e-strumenti/buttondown.md)
   * [Markdown](piattaforme-e-strumenti/markdown.md)
+* [Palanche](palanche.md)
