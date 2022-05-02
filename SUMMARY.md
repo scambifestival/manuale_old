@@ -1,14 +1,18 @@
 # Table of contents
 
-* [💡 Base knowledge](README.md)
-  * [💆 Riunioni](base-knowledge/riunioni.md)
-  * [🧠 Format](base-knowledge/format.md)
-  * [👯 PIX](base-knowledge/pix.md)
-  * [🤌 Linguaggio](base-knowledge/linguaggio.md)
-  * [👪 Relazioni](base-knowledge/relazioni.md)
-  * [🍍 La Pigna](base-knowledge/la-pigna.md)
-* [🙋 Teams](teams/README.md)
-  * [🧶 Team Leaders](teams/team-leaders.md)
+## 💡 Base Knowledge
+
+* [🙋 Teams](README.md)
+  * [🧶 Team Leaders](base-knowledge/teams/team-leaders.md)
+* [💆 Riunioni](base-knowledge/riunioni.md)
+* [🧠 Format](base-knowledge/format.md)
+* [👯 PIX](base-knowledge/pix.md)
+* [🤌 Linguaggio](base-knowledge/linguaggio.md)
+* [🍍 La Pigna](base-knowledge/la-pigna.md)
+
+***
+
+* [🌪 Workflow](workflow.md)
 * [💬 Comunicazione](comunicazione/README.md)
   * [📰 Rassegna stampa](comunicazione/rassegna-stampa.md)
   * [💌 Newsletter](comunicazione/newsletter.md)
@@ -24,4 +28,6 @@
   * [Buttondown](base-knowledge/piattaforme-e-strumenti/buttondown.md)
   * [Markdown](piattaforme-e-strumenti/markdown.md)
   * [Baserow](piattaforme-e-strumenti/baserow.md)
+* [👪 Relazioni](relazioni/README.md)
+  * [🏘 Comune di Sanremo](relazioni/comune-di-sanremo.md)
 * [💸 Palanche](palanche.md)

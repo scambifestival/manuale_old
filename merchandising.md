@@ -18,7 +18,7 @@ The steps to perform are:
 4. **Distributing**: as an [APS](associazione/), we cannot print any invoice, therefore we are not allowed to directly sell anything. Nevertheless, in order to earn funds out of merchandising, we perform the little trick of gifting merchandise for free in exchange for donations.
 
 {% hint style="info" %}
-Note that steps 1 and 2 should be carried out at the same time, by [the Peacocks](teams/#civette) and [the Owls](teams/#civette) respectively. This is important both to be efficient in terms of timing, but above all to allow the designers to communicate with the print shop concerning peculiar intentions (e.g. printing a writing on a sleeve of hoodies, defining the kind of printing material…)
+Note that steps 1 and 2 should be carried out at the same time, by [the Peacocks](./#civette) and [the Owls](./#civette) respectively. This is important both to be efficient in terms of timing, but above all to allow the designers to communicate with the print shop concerning peculiar intentions (e.g. printing a writing on a sleeve of hoodies, defining the kind of printing material…)
 {% endhint %}
 
 ## Printed

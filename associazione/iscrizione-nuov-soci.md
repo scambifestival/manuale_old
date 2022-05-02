@@ -2,7 +2,7 @@
 
 ### Sociə attivə
 
-1. **PAGAMENTO**: versare 20€ ad `A.P.S Oltre`, in due possibili modi:
+1. **PAGAMENTO**: versare 20€ ad `A.P.S. Oltre`, in due possibili modi:
    * via bonifico all’IBAN `IT63E0501801400000016986952`
    * [via PayPal](https://manuale.scambi.org/paypal.me/apsoltre) a `palanche@scambi.org`, specificando sempre che è preferibile utilizzare la modalità di trasferimento denaro <mark style="background-color:yellow;">amici e famiglia</mark>, per non pagare la commissione
 2. **LIBERATORIE**: compilare e caricare nella cartella “[documentazione soci](https://nuvola.scambi.org/f/118956)” (NOTA: utilizzare sempre la <mark style="background-color:yellow;">versione in PDF</mark>):
@@ -20,8 +20,8 @@
    * Gruppi di appartenenza
 6. **CONTATTI**: aggiungerli ai [contatti su Nuvola](https://nuvola.scambi.org/apps/contacts)
 7. **NEWSLETTER**: iscriverlə alla newsletter, seguendo [queste istruzioni](../base-knowledge/piattaforme-e-strumenti/buttondown.md) e assegnando il tag `sociə` al nuovo iscritto. Assegnare il tag è fondamentale per assicurarsi che le comunicazioni ufficiali con i soci arrivino correttamente a tutti
-8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](../teams/#paguri))
-9. **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](../teams/#paguri)), a cui il nuovo iscritto deve aggiungere
+8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](../#paguri))
+9. **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](../#paguri)), a cui il nuovo iscritto deve aggiungere
    * Foto
    * Biografia
 
