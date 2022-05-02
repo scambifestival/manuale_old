@@ -12,8 +12,8 @@ Per la sola visualizzazione dei dati, fare riferimento alle istruzioni in [quest
 
 ### Utilizzo
 
-Baserow è un Google Sheets con i superpoteri. Sono rimosse tutte le funzionalità di formattazione come i colorini, i font, eccetera, mentre sono aggiunte funzionalità che aiutano immensamente nella <u>gestione di grosse quantità di dati</u>, nonché la loro visualizzazione ed analisi.
+Baserow è un Google Sheets con i superpoteri. Sono rimosse tutte le funzionalità di formattazione come i colorini, i font, eccetera, mentre sono aggiunte funzionalità che aiutano immensamente nella gestione di grosse quantità di dati, nonché la loro visualizzazione ed analisi.
 
 Il video di seguito riassume le funzionalità essenziali
 
-<iframe title='Tutorial Baserow' src='https://peertube.uno/videos/embed/d13b53db-e063-4890-8320-70e020657f78?autoplay=1&amp;warningTitle=0&amp;peertubeLink=0' allowfullscreen='' sandbox='allow-same-origin allow-scripts allow-popups' width='560' height='315' frameborder='0'></iframe>
+{% embed url="https://peertube.uno/w/rQx6eXZpXUhcjzHJZeZfjm" %}
