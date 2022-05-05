@@ -20,8 +20,8 @@
    * Gruppi di appartenenza
 6. **CONTATTI**: aggiungerli ai [contatti su Nuvola](https://nuvola.scambi.org/apps/contacts)
 7. **NEWSLETTER**: iscriverlə alla newsletter, seguendo [queste istruzioni](../base-knowledge/piattaforme-e-strumenti/buttondown.md) e assegnando il tag `sociə` al nuovo iscritto. Assegnare il tag è fondamentale per assicurarsi che le comunicazioni ufficiali con i soci arrivino correttamente a tutti
-8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](../#paguri))
-9. **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](../#paguri)), a cui il nuovo iscritto deve aggiungere
+8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](<../README (1).md#paguri>))
+9. **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](<../README (1).md#paguri>)), a cui il nuovo iscritto deve aggiungere
    * Foto
    * Biografia
 

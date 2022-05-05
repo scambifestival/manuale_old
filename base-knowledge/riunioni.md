@@ -9,7 +9,7 @@ description: >-
 Le riunioni sono fondamentali per aggiornarsi e confrontarsi, ma soprattutto per mantenere vivo lo spirito di comunità che ci caratterizza.
 
 * Le **riunioni generali** sono incontri **bimensili** (due volte al mese) a cui sono tenuti a partecipare **tutti i membri** **attivi**. Durante l’anno sono prevalentemente online.
-* I _**Team Meetings**_ sono programmati e condotti in completa **autonomia** da ciasun [_Team_](../), con la direzione del [_Team Leader_](teams/team-leaders.md). Quest’ultimə non decide arbitrariamente nulla, ma si preoccupa che ci si ritrovi quando è necessario, che si tocchino tutte le questioni in sospeso e che si discuta attivamente del futuro e dell’efficacia del team.
+* I _**Team Meetings**_ sono programmati e condotti in completa **autonomia** da ciasun [_Team_](<../README (1).md>), con la direzione del [_Team Leader_](teams/team-leaders.md). Quest’ultimə non decide arbitrariamente nulla, ma si preoccupa che ci si ritrovi quando è necessario, che si tocchino tutte le questioni in sospeso e che si discuta attivamente del futuro e dell’efficacia del team.
 * Le riunioni dei _**Team Leaders**_ avvengono una volta **ogni tre settimane**. Sono cruciali per condividere i piani e assicurarsi che si stia lavorando organicamente. Nelle riunioni dei Team Leaders ci si preoccupa prevalentemente di stabilire tempistiche comuni e sincronizzate.
 * Le [**assemblee**](riunioni.md#assemblee) sono riunioni ufficiali a cui sono tenuti a partecipare tutti i soci di A.P.S. Oltre, inclusi i simpatizzanti e gli onorari. Generalmente, non sono più di quattro all’anno.
 

@@ -1,8 +1,10 @@
 # Table of contents
 
+* [🫀 Dietro le quinte](README.md)
+
 ## 💡 Base Knowledge
 
-* [🙋 Teams](README.md)
+* [🙋 Teams](<README (1).md>)
   * [🧶 Team Leaders](base-knowledge/teams/team-leaders.md)
 * [💆 Riunioni](base-knowledge/riunioni.md)
 * [🧠 Format](base-knowledge/format.md)
