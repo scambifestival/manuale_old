@@ -44,13 +44,11 @@ L’unico gruppo _outsourced_, cioè composto da persone che non sono necessaria
 
 ### Paguri
 
-I Paguri gestiscono tutta&#x20;
+I Paguri si occupano della gestione delle piattaforme utili all'amministrazione del nostro Staff, lato _client_. Tutta l'[infrastruttura tecnologica](base-knowledge/piattaforme-e-strumenti/) dei nostri servizi è coordinata dai Paguri. Se riscontri qualche problema nell'uso di tali risorse, puoi rivolgerti a loro.
 
 ### Palanche
 
 Seguono tutte le faccende economiche. Si occupano di cercare e gestire fondi, aggiornare la contabilità e… basta. Queste due cose sono già tantissimissimo.&#x20;
-
-
 
 ### Rondini
 
