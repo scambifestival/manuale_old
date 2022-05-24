@@ -4,11 +4,17 @@
 
 ## 💡 Base Knowledge
 
-* [🙋 Teams](<README (1).md>)
-  * [🧶 Team Leaders](base-knowledge/teams/team-leaders.md)
+* [👩👩👧👦 Staff](base-knowledge/staff/README.md)
+  * [🙋 Sociə](base-knowledge/staff/soci.md)
+  * [💏 Teams](base-knowledge/staff/teams.md)
+  * [🧶 Team Leaders](base-knowledge/staff/team-leaders.md)
+  * [🦸 New entry](base-knowledge/staff/new-entry.md)
+  * [👯 PIX](base-knowledge/staff/pix.md)
+  * [🕵 Referente](base-knowledge/staff/referente.md)
 * [💆 Riunioni](base-knowledge/riunioni.md)
-* [🧠 Format](base-knowledge/format.md)
-* [👯 PIX](base-knowledge/pix.md)
+* [🧠 Format](base-knowledge/format/README.md)
+  * [Lab](base-knowledge/format/lab.md)
+  * [Pinoli](base-knowledge/format/pinoli.md)
 * [🤌 Linguaggio](base-knowledge/linguaggio.md)
 * [🍍 La Pigna](base-knowledge/la-pigna.md)
 
@@ -23,8 +29,8 @@
   * [🖼 Processo di creazione grafica](design/processo-di-creazione-grafica.md)
   * [🖼 Graphic creation workflow](design/graphic-creation-workflow.md)
 * [👕 Merchandising](merchandising.md)
-* [💑 Associazione](associazione/README.md)
-  * [📄 Statuto dell’APS Oltre](associazione/statuto-dellaps-oltre.md)
+* [🏛 Associazione](associazione/README.md)
+  * [📄 Statuto di A.P.S. Oltre](associazione/statuto-dellaps-oltre.md)
   * [📩 Iscrizione nuovə sociə](associazione/iscrizione-nuov-soci.md)
 * [🖥 Piattaforme e strumenti](base-knowledge/piattaforme-e-strumenti/README.md)
   * [Buttondown](base-knowledge/piattaforme-e-strumenti/buttondown.md)

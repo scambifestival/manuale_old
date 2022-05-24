@@ -42,4 +42,4 @@ Even if you ask on time if there is already a lot of other things, I have to do 
 
 #### What if no one can do a graphic for me?
 
-There is still [Penpot](https://design.penpot.app) or [Canva](https://www.canva.com) which you can use in emergencies, the graphic team will send you a tutorial for Penpot and some general design indications, we also have some pre-made templates for social media posts which you could use.
+There is still [Penpot](https://design.penpot.app/) or [Canva](https://www.canva.com/) which you can use in emergencies, the graphic team will send you a tutorial for Penpot and some general design indications, we also have some pre-made templates for social media posts which you could use.

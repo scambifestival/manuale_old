@@ -1,4 +1,12 @@
+---
+description: >-
+  Iter per iscrivere unə nuovə sociə ad A.P.S. Oltre, per diventare
+  ufficialmente parte dello staff di Scambi Festival
+---
+
 # 📩 Iscrizione nuovə sociə
+
+Dopo un periodo di prova di 2-3 settimane, le [Tartarughe](../base-knowledge/staff/teams.md#tartarughe) si occupano di guidare una [_new entry_](../base-knowledge/staff/new-entry.md) nel processo di iscrizione che segue, al fine di diventare ufficialmente sociə di [A.P.S. Oltre](./), dunque a tutti gli effetti parte dello [staff](../base-knowledge/staff/) di Scambi Festival.
 
 ### Sociə attivə
 
@@ -20,13 +28,10 @@
    * Gruppi di appartenenza
 6. **CONTATTI**: aggiungerli ai [contatti su Nuvola](https://nuvola.scambi.org/apps/contacts)
 7. **NEWSLETTER**: iscriverlə alla newsletter, seguendo [queste istruzioni](../base-knowledge/piattaforme-e-strumenti/buttondown.md) e assegnando il tag `sociə` al nuovo iscritto. Assegnare il tag è fondamentale per assicurarsi che le comunicazioni ufficiali con i soci arrivino correttamente a tutti
-8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](<../README (1).md#paguri>))
-9. **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](<../README (1).md#paguri>)), a cui il nuovo iscritto deve aggiungere
+8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](../base-knowledge/staff/teams.md#paguri))
+9. **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](../base-knowledge/staff/teams.md#paguri)), a cui il nuovo iscritto deve aggiungere
    * Foto
    * Biografia
-
-\
-
 
 ### Sociə simpatizzante
 
@@ -40,10 +45,7 @@
 6. **CONTATTI**: aggiungere ai [contatti su Nuvola](https://nuvola.scambi.org/apps/contacts)
 7. **NEWSLETTER**: iscriverlə alla [newsletter](https://buttondown.email/scambi)
 
-\
-
-
-#### Messaggio tipo
+### Messaggio tipo
 
 Ciao! Per iscriversi all’A.P.S. Oltre ci sono degli step da seguire:
 

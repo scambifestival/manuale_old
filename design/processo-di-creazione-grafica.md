@@ -48,4 +48,4 @@ Bisogna considerare che, anche chiedendo la grafica in tempo, con l’organico a
 
 ### E se nessuno può realizzare una grafica?
 
-In caso di emergenza possono essere usati [Penpot](https://design.penpot.app) oppure [Canva](https://www.canva.com). Per il primo, i Pavoni hanno realizzato un tutorial con alcune indicazioni generali e ci sono alcuni template pronti per post sui social.
+In caso di emergenza possono essere usati [Penpot](https://design.penpot.app/) oppure [Canva](https://www.canva.com/). Per il primo, i Pavoni hanno realizzato un tutorial con alcune indicazioni generali e ci sono alcuni template pronti per post sui social.
