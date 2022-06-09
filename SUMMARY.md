@@ -39,7 +39,4 @@
 * [👪 Relazioni](relazioni/README.md)
   * [🏘 Comune di Sanremo](relazioni/comune-di-sanremo.md)
 * [💸 Palanche](palanche.md)
-
-## 👩🦽 Ghiandaie
-
-* [👩🦽 Ghiandaie](ghiandaie/ghiandaie.md)
+* [👨🦽 Ghiandaie](ghiandaie.md)
