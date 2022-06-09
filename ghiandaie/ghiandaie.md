@@ -1,4 +1,4 @@
-# Page 1
+# 👩🦽 Ghiandaie
 
 Il Team Ghiandaie si occupa di rendere il festival accessibile sotto vari aspetti. Durante l'edizione 2021 purtroppo non sono state registrate partecipazioni da parte di persone con disabilità;  durante questi mesi abbiamo quindi cercato di contattare diverse organizzazioni, locali e nazionali, per coinvolgerle, purtroppo i risultati sono stati inesistenti.&#x20;
 

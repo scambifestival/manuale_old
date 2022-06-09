@@ -42,4 +42,4 @@
 
 ## 👩🦽 Ghiandaie
 
-* [Page 1](ghiandaie/page-1.md)
+* [👩🦽 Ghiandaie](ghiandaie/ghiandaie.md)
