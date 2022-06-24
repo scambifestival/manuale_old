@@ -6,7 +6,9 @@
 
 * [👩👩👧👦 Staff](base-knowledge/staff/README.md)
   * [🙋 Sociə](base-knowledge/staff/soci.md)
+  * [🙋 Members](base-knowledge/staff/members.md)
   * [💏 Teams](base-knowledge/staff/teams.md)
+  * [💑 Teams](base-knowledge/staff/teams-1.md)
   * [🧶 Team Leaders](base-knowledge/staff/team-leaders.md)
   * [🦸 New entry](base-knowledge/staff/new-entry.md)
   * [👯 PIX](base-knowledge/staff/pix.md)
