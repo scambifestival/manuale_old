@@ -19,11 +19,13 @@
   * [Pinoli](base-knowledge/format/pinoli.md)
 * [🤌 Linguaggio](base-knowledge/linguaggio.md)
 * [🍍 La Pigna](base-knowledge/la-pigna.md)
+* [🌲 Pino](base-knowledge/pino.md)
 
 ***
 
 * [🌪 Workflow](workflow.md)
 * [💬 Comunicazione](comunicazione/README.md)
+  * [👀 Pitch email](comunicazione/pitch-email.md)
   * [📰 Rassegna stampa](comunicazione/rassegna-stampa.md)
   * [💌 Newsletter](comunicazione/newsletter.md)
 * [🖌 Design](design/README.md)
