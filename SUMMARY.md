@@ -40,5 +40,6 @@
   * [Baserow](piattaforme-e-strumenti/baserow.md)
 * [👪 Relazioni](relazioni/README.md)
   * [🏘 Comune di Sanremo](relazioni/comune-di-sanremo.md)
-* [💸 Palanche](palanche.md)
+* [💸 Palanche](palanche/README.md)
+  * [💅 Sponsor](palanche/sponsor.md)
 * [👨🦽 Ghiandaie](ghiandaie.md)
