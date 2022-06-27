@@ -23,7 +23,12 @@ Sponsors have to be scouted, contacted, and signed. All of this has to be done f
       2. What we can **offer** + what we need from the sponsor
       3. (Brainstorming on how the collaboration could be carried out)
    3. **Follow-up emails**: no further communication should occur only verbally. Everything should be logged and noted via email. Not by message, not by call.
-3. **Signing**: once every detail is defined, a **summary email** has to be sent and a confirmation must be received. In order to officially seal the deal, a <mark style="background-color:yellow;">**contract**</mark> summarizing the main points of the deal has to be signed both by Scambi’s president and the legal responsible of the sponsoring entity. What the contact should address:
-   * **beginning** and **end** (timing) of the sponsorship
-   * precisely **what** we get and what we give
-   * who are the **delegates** for Scambi and, if applicable, for the sponsoring entity
+3. **Signing**: once every detail is defined, a **summary email** has to be sent and a confirmation must be received. Such email should contain:
+   * <mark style="background-color:yellow;">**marketing material**</mark> of the sponsor:
+     * high resolution logo
+     * some video/photo promotional content
+     * the standard written biography/presentation
+   * a <mark style="background-color:yellow;">**contract**</mark> summarizing the main points of the deal has to be signed both by Scambi’s president and the legal responsible of the sponsoring entity. What the contact should address:
+     * **beginning** and **end** (timing) of the sponsorship
+     * precisely **what** we get and what we give
+     * who are the **delegates** for Scambi and, if applicable, for the sponsoring entity
