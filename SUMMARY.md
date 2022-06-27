@@ -5,6 +5,7 @@
 ## 💡 Base Knowledge
 
 * [👩👩👧👦 Staff](base-knowledge/staff/README.md)
+  * [Staff](base-knowledge/staff/staff.md)
   * [🙋 Sociə](base-knowledge/staff/soci.md)
   * [🙋 Members](base-knowledge/staff/members.md)
   * [💏 Teams](base-knowledge/staff/teams.md)
@@ -42,6 +43,6 @@
   * [Baserow](piattaforme-e-strumenti/baserow.md)
 * [👪 Relazioni](relazioni/README.md)
   * [🏘 Comune di Sanremo](relazioni/comune-di-sanremo.md)
-* [💸 Palanche](palanche/README.md)
+* [💸 Palanche](palanche.md)
   * [💅 Sponsor](palanche/sponsor.md)
 * [👨🦽 Ghiandaie](ghiandaie.md)
