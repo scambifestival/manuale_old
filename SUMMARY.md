@@ -47,6 +47,7 @@
   * [Buttondown](base-knowledge/piattaforme-e-strumenti/buttondown.md)
   * [Markdown](piattaforme-e-strumenti/markdown.md)
   * [Baserow](piattaforme-e-strumenti/baserow.md)
+  * [Baserow](piattaforme-e-strumenti/baserow-1.md)
 * [👪 Relazioni](relazioni/README.md)
   * [🏘 Comune di Sanremo](relazioni/comune-di-sanremo.md)
 * [💸 Palanche](palanche/README.md)
