@@ -11,6 +11,7 @@
   * [💏 Teams](base-knowledge/staff/teams.md)
   * [💑 Teams](base-knowledge/staff/teams-1.md)
   * [🧶 Team Leaders](base-knowledge/staff/team-leaders.md)
+  * [🧶 Team Leaders](base-knowledge/staff/team-leaders-1.md)
   * [🦸 New entry](base-knowledge/staff/new-entry.md)
   * [👯 PIX](base-knowledge/staff/pix.md)
   * [🕵 Referente](base-knowledge/staff/referente.md)
