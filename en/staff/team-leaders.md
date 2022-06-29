@@ -6,7 +6,7 @@ description: Who they are, what they do and why do they should terribly do it.
 
 It is not by chance that the icon of this page is a tangle. Easily, naturally and-unfortunately- often the dinamics within Scambi look like an incomprehensible, confused and stressing tangle. The Team Leaders exists so that this will not be the case. &#x20;
 
-&#x20;Each [team ](teams.md)has its own representative, whose role is not to take decisions, to know more that the others or to dictate. On the contrary, its role is to always keep clearly in mind the answer to all the following four fundamental questions and to assume their responsability: &#x20;
+&#x20;Each [team ](../../staff/teams.md)has its own representative, whose role is not to take decisions, to know more that the others or to dictate. On the contrary, its role is to always keep clearly in mind the answer to all the following four fundamental questions and to assume their responsability: &#x20;
 
 * which are the **objectives**, the **projects** and the **deadlines** for my team, in the short-medium term?
 * towards which **direction** is miy group going? Does it correspond to the point at which we should be according to the precedent question?&#x20;

@@ -7,9 +7,9 @@ description: >-
 
 # 📩 Iscrizione nuovə sociə - Registration of new members
 
-Dopo un periodo di prova di 2-3 settimane, le [Tartarughe](../base-knowledge/staff/teams.md#tartarughe) si occupano di guidare una [_new entry_](../base-knowledge/staff/new-entry.md) nel processo di iscrizione che segue, al fine di diventare ufficialmente sociə di [A.P.S. Oltre](./), dunque a tutti gli effetti parte dello [staff](../base-knowledge/staff/) di Scambi Festival.
+Dopo un periodo di prova di 2-3 settimane, le [Tartarughe](../staff/teams.md#tartarughe) si occupano di guidare una [_new entry_](../staff/new-entry.md) nel processo di iscrizione che segue, al fine di diventare ufficialmente sociə di [A.P.S. Oltre](./), dunque a tutti gli effetti parte dello [staff](../staff/) di Scambi Festival.
 
-After the trial period of 2-3 weeks, the [Turtles](../base-knowledge/staff/teams.md#tartarughe) will guide the [_new entry_](../base-knowledge/staff/new-entry.md) __ through the following registration process in order to officially become a member of [A.P.S. Oltre](./), and effectively a member of the[ staff ](../base-knowledge/staff/)of Scambi. &#x20;
+After the trial period of 2-3 weeks, the [Turtles](../staff/teams.md#tartarughe) will guide the [_new entry_](../staff/new-entry.md) __ through the following registration process in order to officially become a member of [A.P.S. Oltre](./), and effectively a member of the[ staff ](../staff/)of Scambi. &#x20;
 
 ### Sociə attivə - Active member&#x20;
 
@@ -31,8 +31,8 @@ After the trial period of 2-3 weeks, the [Turtles](../base-knowledge/staff/teams
    * Gruppi di appartenenza
 6. **CONTATTI**: aggiungerli ai [contatti su Nuvola](https://nuvola.scambi.org/apps/contacts)
 7. **NEWSLETTER**: iscriverlə alla newsletter, seguendo [queste istruzioni](../base-knowledge/piattaforme-e-strumenti/buttondown.md) e assegnando il tag `sociə` al nuovo iscritto. Assegnare il tag è fondamentale per assicurarsi che le comunicazioni ufficiali con i soci arrivino correttamente a tutti
-8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](../base-knowledge/staff/teams.md#paguri))
-9.  **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](../base-knowledge/staff/teams.md#paguri)), a cui il nuovo iscritto deve aggiungere
+8. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](../staff/teams.md#paguri))
+9.  **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](../staff/teams.md#paguri)), a cui il nuovo iscritto deve aggiungere
 
     * Foto
     * Biografia

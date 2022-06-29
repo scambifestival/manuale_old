@@ -4,7 +4,7 @@ description: A guide on how to use the software for data management
 
 # Baserow
 
-Baserow is the name of the software whose interface is operated by Pino, the database of Scambi. If the informations on this page would not be enough, before talking to the Silicon team, search for further informations on the official forum.&#x20;
+[Baserow](https://baserow.io) is the software whose interface is operated by _Pino_, Scambi’s database. If the informations on this page would not be enough, before talking to the Silicon team, search for further informations on the official forum.&#x20;
 
 ### Access&#x20;
 
@@ -20,7 +20,7 @@ The following video summarizes the essential functionalities
 
 ### Contents&#x20;
 
-Many different tables exist on Pino. Each one of them has a specific role. In the previous tutorial the roles of the tables and the data entry criteria and catalouiging of data are not specified in details .
+Many different tables exist on Pino. Each one of them has a specific role. In the previous tutorial the roles of the tables and the data entry criteria and cataloguing of data are not specified in details.
 
 * in [_Relazioni_](https://baserow.io/database/22288/table/58822) all Scambi's interactions with people or external institutions are being written.&#x20;
   * each type of relationship, even if not successful, should be put into this table .

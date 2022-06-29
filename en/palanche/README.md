@@ -4,7 +4,7 @@ description: >-
   repeated again
 ---
 
-# 💸 Money
+# 💸 Palanche
 
 While organizing the second edition of Scambi (2022), the Money team is born. Completely devoted to the money research and management, through sponsorships and fundraisings, but also publci and/or private calls for tender.
 

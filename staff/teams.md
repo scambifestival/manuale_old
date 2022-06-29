@@ -11,7 +11,7 @@ Se, leggendo, lo smarrimento superasse la comprensione, non si esiti a contattar
 
 ### Camaleonti&#x20;
 
-I Camaleonti corrispondono al **direttivo** di [A.P.S. Oltre](../../associazione/). Sono il team che si assume la responsabilità legale delle decisioni prese e che ha l’ultima parola su **decisioni importanti**, come questioni di **soldini** e scelte con ripercussioni a lungo termine. A presiedere il direttivo è lə presidente dell’associazione.
+I Camaleonti corrispondono al **direttivo** di [A.P.S. Oltre](../associazione/). Sono il team che si assume la responsabilità legale delle decisioni prese e che ha l’ultima parola su **decisioni importanti**, come questioni di **soldini** e scelte con ripercussioni a lungo termine. A presiedere il direttivo è lə presidente dell’associazione.
 
 
 
@@ -29,7 +29,7 @@ Le Libellule sono il team comunemente denominato “_Social Media Managers_”: 
 
 ### Chiocciole&#x20;
 
-Le [Chiocciole](../../comunicazione/) si occupano della [comunicazione](../../comunicazione/) “_slow_”, sono quello che comunemente è definito l’**ufficio stampa**. Inoltre, scrivono e coordinano la pubblicazione della newsletter e degli articoli sul blog. Naturalmente, lavorano a stretto contatto con le [Libellule](teams.md#libellule), che, fra le altre cose, si occupano di spammare ovunque i loro prodotti.
+Le [Chiocciole](../comunicazione/) si occupano della [comunicazione](../comunicazione/) “_slow_”, sono quello che comunemente è definito l’**ufficio stampa**. Inoltre, scrivono e coordinano la pubblicazione della newsletter e degli articoli sul blog. Naturalmente, lavorano a stretto contatto con le [Libellule](teams.md#libellule), che, fra le altre cose, si occupano di spammare ovunque i loro prodotti.
 
 ### Ghiandaie&#x20;
 
@@ -37,11 +37,11 @@ Le Ghiandaie sono il team dedicato all’accessibilità. Il loro obiettivo è re
 
 ### Silicon
 
-L’unico gruppo _outsourced_, cioè composto da persone che non sono necessariamente ufficialmente parte dell’associazione. Hanno messo su e mantengono tutta la straordinaria [struttura tecnologica](../piattaforme-e-strumenti/) di Scambi.
+L’unico gruppo _outsourced_, cioè composto da persone che non sono necessariamente ufficialmente parte dell’associazione. Hanno messo su e mantengono tutta la straordinaria [struttura tecnologica](../base-knowledge/piattaforme-e-strumenti/) di Scambi.
 
 ### Paguri&#x20;
 
-I Paguri si occupano della gestione delle piattaforme utili all'amministrazione del nostro Staff, lato _client_. Tutta l'[infrastruttura tecnologica](../piattaforme-e-strumenti/) dei nostri servizi è coordinata dai Paguri. Se riscontri qualche problema nell'uso di tali risorse, puoi rivolgerti a loro.
+I Paguri si occupano della gestione delle piattaforme utili all'amministrazione del nostro Staff, lato _client_. Tutta l'[infrastruttura tecnologica](../base-knowledge/piattaforme-e-strumenti/) dei nostri servizi è coordinata dai Paguri. Se riscontri qualche problema nell'uso di tali risorse, puoi rivolgerti a loro.
 
 ### Palanche&#x20;
 

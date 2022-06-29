@@ -14,14 +14,10 @@ Per comunciare, leggi la “Base Knowledge”, la cui prima pagina è “Teams�
 {% endtab %}
 
 {% tab title="🇬🇧 English" %}
-🇬🇧​ Scambi is a wonderful orchestra, yet surprisingly huge and complex. In order to work in harmony, all of us have to be well aware of their roles.
+_Scambi_ is a wonderful orchestra, yet surprisingly huge and complex. In order to work in harmony, all of us have to be well aware of their roles.
 
-🇬🇧 This manual is conceived and updated in order to facilitate this task. By navigating through these pages, you should find an answer for any question you might have concerning Scambi Festival’s behind the scenes. If you do not, figure out the answer yourself by asking to other fellow members of the staff, then add it here yourself!
+This manual is conceived and updated in order to facilitate this task. By navigating through these pages, you should find an answer for any question you might have concerning Scambi Festival’s behind the scenes. If you do not, figure out the answer yourself by asking to other fellow members of the staff, then add it here yourself!
 
-{% hint style="info" %}
-It must be aknowledged that up to now most of us are Italian, hence most of the manual is only in Italian. Nevertheless, we are committing to keeping everything bilingual, both in Italian and English. If you can, please help us with localization!
-{% endhint %}
-
-The proper way to begin with is reading the _Base Knowledge_ section.
+****[<mark style="background-color:red;">**Go to the English section**</mark>](en/staff/)<mark style="background-color:red;">****</mark>
 {% endtab %}
 {% endtabs %}

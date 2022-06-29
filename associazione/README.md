@@ -20,7 +20,7 @@ Le [iscrizioni](iscrizione-nuov-soci.md) all’APS Oltre sono aperte a chiunque 
 
 ### Direttivo
 
-Al momento, il [direttivo](../base-knowledge/staff/teams.md#camaleonti)—anche chiamato **Consiglio d’Amministrazione** o, internamente, [_Camaleonti_](../base-knowledge/staff/teams.md#camaleonti)—è costituito da:
+Al momento, il [direttivo](../staff/teams.md#camaleonti)—anche chiamato **Consiglio d’Amministrazione** o, internamente, [_Camaleonti_](../staff/teams.md#camaleonti)—è costituito da:
 
 * Anna Mastrantuono, presidente
 * Tommaso Marmo, vice-presidente
