@@ -12,7 +12,7 @@ Per sponsor tecnici è necessaria la comunicazione con Civette.
 
 Per quanto riguarda i bandi è molto difficile, sono un'infinità e servono molte forze per essere concreti, infatti, non siamo riusciti a concretizzare per adesso.
 
-### Errori de non rifare&#x20;
+### Errori de non rifare
 
-* contattare sponsor senza strategia&#x20;
-* non comunicare con gli altri gruppi&#x20;
+* contattare sponsor senza strategia
+* non comunicare con gli altri gruppi

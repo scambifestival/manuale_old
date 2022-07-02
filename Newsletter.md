@@ -2,7 +2,7 @@ Il servizio di cui attualmente ci serviamo per inviare la newsletter è [Buttond
 
 L’archivio delle newsletter passate si trova [qui](https://buttondown.email/scambi/archive/ 'Scambi Festival Archive — Buttondown'), mentre su [epistulae.scambi.org](https://epistulae.scambi.org 'Iscriviti alla newsletter di Scambi Festival') (che reindirizza a [buttondown.email/scambi](https://buttondown.email/scambi/)) si trova la pagina principale.
 
-**IMPORTANTE**: accedendo all’account Buttondown di Scambi, si ottiene l’accesso a dati sensibili di centinaia di persone. È fondamentale che tali dati non vengano condivisi con nessuno e che non escano dalla piattaforma.
+**IMPORTANT**: accedendo all’account Buttondown di Scambi, si ottiene l’accesso a dati sensibili di centinaia di persone. È fondamentale che tali dati non vengano condivisi con nessuno e che non escano dalla piattaforma.
 
 <br>
 

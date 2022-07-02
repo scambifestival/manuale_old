@@ -9,7 +9,7 @@ description: >-
 L’archivio delle newsletter passate si trova [qui](https://buttondown.email/scambi/archive/), mentre su [epistulae.scambi.org](https://epistulae.scambi.org) (che reindirizza a [buttondown.email/scambi](https://buttondown.email/scambi/)) si trova la pagina principale. Invece, le credenziali per accedere sono [qui](https://nuvola.scambi.org/apps/passwords/).
 
 {% hint style="info" %}
-**IMPORTANTE**: accedendo all’account Buttondown di Scambi, si ottiene l’accesso a dati sensibili di centinaia di persone. È fondamentale che tali dati non vengano condivisi con nessuno e che non escano dalla piattaforma.
+**IMPORTANT**: accedendo all’account Buttondown di Scambi, si ottiene l’accesso a dati sensibili di centinaia di persone. È fondamentale che tali dati non vengano condivisi con nessuno e che non escano dalla piattaforma.
 {% endhint %}
 
 ### Scrivere una newsletter

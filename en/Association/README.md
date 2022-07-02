@@ -4,11 +4,11 @@ description: Informations and functioning of APS Oltre, the legal enitity organi
 
 # 🏛 Association
 
-Oltre is an Association for the Social Promotion, founden on the 9th of September 2020 by seven friends and founding members.&#x20;
+Oltre is an Association for the Social Promotion, founden on the 9th of September 2020 by seven friends and founding members.
 
-The Association, since the 18th of February 2021, is properly registred in the Registro degli Enti del Terzo Settore della Regione Liguria and since the 23rd of November 2021, it is registred also in the new RUNTS.&#x20;
+The Association, since the 18th of February 2021, is properly registred in the Registro degli Enti del Terzo Settore della Regione Liguria and since the 23rd of November 2021, it is registred also in the new RUNTS.
 
-### Charter&#x20;
+### Charter
 
 Its charter is publicly available at this page. The bank details and the legal datas are at the bottom of this page.
 
@@ -22,8 +22,8 @@ Currently, the board- also known as governing bod, or, internally, Chameleons- i
 
 * Anna Mastrantuono, president
 * Tommaso Marmo, vice-president
-* Cecilia Massa, treasurer&#x20;
-* Stefania Ilie, secretary&#x20;
+* Cecilia Massa, treasurer
+* Stefania Ilie, secretary
 * Margherita Moro
 * Chiara Mallozzi
 * Leonardo Venturi

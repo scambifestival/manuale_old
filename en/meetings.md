@@ -6,9 +6,9 @@ description: >-
 
 # 💆 Meetings
 
-Meetings are fundamental tools in order to keep each other updated and to talk to each other, but, above all, it is fundamental in order to keep the community spirit which characterises us. &#x20;
+Meetings are fundamental tools in order to keep each other updated and to talk to each other, but, above all, it is fundamental in order to keep the community spirit which characterises us. 
 
-Meetings are mostly held online, on riunione.scambi.org. All of them are summarized in memorandum kept here.&#x20;
+Meetings are mostly held online, on riunione.scambi.org. All of them are summarized in memorandum kept here.
 
 ### General meetings
 
@@ -16,12 +16,12 @@ Meetings are mostly held online, on riunione.scambi.org. All of them are summari
 
 ### Assemblies
 
-Assemblies are official meetings in which all A.P.S Oltre associates, sympathazer and honorary members included, should take part. Generally, they are not more than four per year. Assemblies are official meetings of the [A.P.S Oltre](../associazione/), where the most important decisions are taken democratically.&#x20;
+Assemblies are official meetings in which all A.P.S Oltre associates, sympathazer and honorary members included, should take part. Generally, they are not more than four per year. Assemblies are official meetings of the [A.P.S Oltre](../associazione/), where the most important decisions are taken democratically.
 
-Assemblies are held every three months, they are summoned by a president's email at least one week earlier. All members are invited to participate and to **answer the convocation email** by conferming their presence. In case of absence, they are **entitled to delegate** another member of their choice.&#x20;
+Assemblies are held every three months, they are summoned by a president's email at least one week earlier. All members are invited to participate and to **answer the convocation email** by conferming their presence. In case of absence, they are **entitled to delegate** another member of their choice.
 
 {% hint style="info" %}
-&#x20;Usually the convocation email sent to each member contains two convocations. The former is scheduled at an impossible time. This trick is a way to make sure that the assembly will take place during the **second convocation**, therefore a quorum is not necessary in order to approve the resolutions. For this reason, in the reply email it is fundamental to **specify** that we are present only for the second convocation.
+Usually the convocation email sent to each member contains two convocations. The former is scheduled at an impossible time. This trick is a way to make sure that the assembly will take place during the **second convocation**, therefore a quorum is not necessary in order to approve the resolutions. For this reason, in the reply email it is fundamental to **specify** that we are present only for the second convocation.
 {% endhint %}
 
 ### Team Meetings

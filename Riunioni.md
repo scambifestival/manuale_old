@@ -17,7 +17,7 @@ Le **riunioni generali** sono incontri **bimensili** (due volte al mese) a cui s
 ### Assemblee
 
 Le [**assemblee**](riunioni.md#assemblee) sono riunioni ufficiali a cui sono tenuti a partecipare tutti i soci di A.P.S. Oltre, inclusi i simpatizzanti e gli onorari. Generalmente, non sono più di quattro all’anno.\
-Le assemblee sono riunioni ufficiali di [A.P.S. Oltre](../associazione/), in cui democraticamente si approvano le decisioni più importanti.&#x20;
+Le assemblee sono riunioni ufficiali di [A.P.S. Oltre](../associazione/), in cui democraticamente si approvano le decisioni più importanti.
 
 Le assemblee si tengono con una frequenza massima di tre mesi, sono convocate via email dallə presidente con almeno una settimana di anticipo. Tuttз i sociз sono invitatз a partecipare e a **rispondere all’email** di convocazione confermando la propria presenza. In caso di assenza, hanno **diritto di delegare** un altrə sociə a loro scelta.
 
