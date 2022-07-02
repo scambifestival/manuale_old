@@ -27,7 +27,7 @@
 * [👕 Merchandising](Merchandising.md)
 * [🏛 Associazione](Associazione/README.md)
 	* [📄 Statuto A.P.S. Oltre](Associazione/Statuto-APS-Oltre.md)
-	* [📩 Iscrizione nuovə sociə - Registration of new members](Associazione/Iscrizione-nuov-soci.md)
+	* [📩 Iscrizione nuovə sociə](Associazione/Iscrizione-nuov-soci.md)
 * [🖥 Piattaforme e strumenti](Piattaforme-e-strumenti/README.md)
 	* [Markdown](Piattaforme-e-strumenti/Markdown.md)
 	* [Buttondown](Piattaforme-e-strumenti/Buttondown.md)
