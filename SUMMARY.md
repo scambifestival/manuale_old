@@ -36,7 +36,7 @@
 	* [🏘 Comune di Sanremo](Relazioni/Comune-di-Sanremo.md)
 * [💸 Palanche](Palanche/README.md)
 	* [💅 Sponsor](Palanche/Sponsor.md)
-* [Ghiandaie](Ghiandaie.md)
+* [Accessibilità](Accessibilita.md)
 
 ## 🇬🇧 English <a href="#en" id="en"></a>
 

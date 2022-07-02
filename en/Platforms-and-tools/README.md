@@ -6,7 +6,7 @@ description: What are the digital tools we use to work
 
 Among [Scambi Festival’s fundamental values](https://scambi.org/manifesto) there is the one of preferring ethical digital tools, preferrably hosted on our own servers. For each service and platform an account is created for every association member.
 
-* ****[**scambi.org**](https://scambi.org) is the official _Scambi Festival_ website
+* [**scambi.org**](https://scambi.org) is the official _Scambi Festival_ website
 * [_**Nuvola**_](https://nuvola.scambi.org) is our cloud, using [Nextcloud](https://nextcloud.com) ([**download the app**](https://nextcloud.com/install/#install-clients)!). It works like Google Drive. Furthermore, _Nuvola_ offers several extensions which facilitate our [workflow](en/Workflow.md).
   * Thanks to the [_**Deck**_](https://nuvola.scambi.org/apps/deck) you can organize and manage tasks, assign them to specific people, and add tags.
   * On [_**Passwords**_](https://nuvola.scambi.org/apps/passwords) are saved all of the credentials for every account we have.
