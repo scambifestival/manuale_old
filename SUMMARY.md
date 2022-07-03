@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🫀 Dietro le quinte](README.md)
-* [👩👩👧👦 👨‍👩‍👧‍👦 Staff](staff/README.md)
+* [👩👩👧👦 Staff](staff/README.md)
   * [🙋 Sociə](staff/soci.md)
   * [💏 Teams](staff/teams.md)
   * [🧶 Team Leaders](staff/team-leaders.md)
@@ -10,13 +10,13 @@
   * [🕵 Referente](staff/referente.md)
 * [💆 Riunioni](Riunioni.md)
 * [🧠 Format](format/README.md)
-  * [Lab](format/lab.md)
+  * [🧪 Lab](format/lab.md)
   * [Pinoli](format/pinoli.md)
 * [🌲 Pino](pino.md)
 * [🍍 La Pigna](la-pigna.md)
-* [🤌 🤌🏼 Linguaggio](linguaggio.md)
 * [🌪 Workflow](workflow.md)
 * [💬 Comunicazione](comunicazione/README.md)
+  * [🤌 Linguaggio](comunicazione/linguaggio.md)
   * [👀 Pitch email](comunicazione/pitch-email.md)
   * [📰 Rassegna stampa](comunicazione/rassegna-stampa.md)
   * [💌 Newsletter](comunicazione/newsletter.md)
@@ -38,9 +38,9 @@
   * [💅 Sponsor](palanche/sponsor.md)
 * [Accessibilità](Accessibilita.md)
 
-## 🇬🇧 🇬🇧 English <a href="#en" id="en"></a>
+## 🇬🇧 English <a href="#en" id="en"></a>
 
-* [👩👩👧👦 👨‍👩‍👧‍👦 Staff](en/staff/README.md)
+* [👩👩👧👦 Staff](en/staff/README.md)
   * [🙋 Members](en/staff/members.md)
   * [💑 Teams](en/staff/teams.md)
   * [🧶 Team Leaders](en/staff/team-leaders.md)
@@ -52,7 +52,7 @@
   * [🧪 Labs](en/format/labs.md)
   * [Pinoli](en/format/pinoli.md)
 * [💬 Communication](en/communication/README.md)
-  * [🤌🏼 Language](en/Communication/Language.md)
+  * [🤌 Language](en/Communication/Language.md)
   * [💌 Newsletter](en/Communication/Newsletter.md)
   * [📰 Press review](en/Communication/Press-review.md)
 * [🍍 Pigna](en/Pigna.md)
@@ -60,6 +60,7 @@
   * [💅 Sponsor](en/palanche/sponsor.md)
 * [🏛 Association](en/Association/README.md)
   * [📩 Registration of new members](en/Association/New-member-registration.md)
+* [🌲 Pino](en/pino.md)
 * [🖥 Platforms and tools](en/Platforms-and-tools/README.md)
   * [Markdown](en/platforms-and-tools/markdown.md)
   * [Buttondown](en/platforms-and-tools/buttondown.md)

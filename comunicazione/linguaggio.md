@@ -2,9 +2,9 @@
 description: Il linguaggio utilizzato nella comunicazione in e di Scambi
 ---
 
-# 🤌 🤌🏼 Linguaggio
+# 🤌 Linguaggio
 
-In linea con i principi di inclusività e rispetto reciproco su cui Scambi è basato, il linguaggio che adottiamo per [le nostre comunicazioni](comunicazione/), sia formali che non, è quello dell’italiano “inclusivo”.
+In linea con i principi di inclusività e rispetto reciproco su cui Scambi è basato, il linguaggio che adottiamo per [le nostre comunicazioni](./), sia formali che non, è quello dell’italiano “inclusivo”.
 
 {% hint style="info" %}
 In realtà, lo stesso termine “inclusivo” non è molto inclusivo, soprattutto non piace a Sabrina, perché includere qualcuno presuppone automaticamente che fosse escluso, però insomma, questo è il termine che si capisce meglio.

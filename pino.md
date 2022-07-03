@@ -6,12 +6,21 @@ description: >-
 
 # 🌲 Pino
 
-Pino is the database containing all of the data concerning all of Scambi. It is still being  heavily developed, therefore its working details are not definitely defined.
+Pino è il database che contiente tutti i dati riguardanti _qualunque cosa_ di Scambi.
 
-### What
+### Come
 
-Pino mostly collects data about people and what they do in relation to Scambi. Rather than explaining what it does, it is much easier to open it and see it by yourself.
+Pino è gestito tramite un software specifico, chiamato [_Baserow_](piattaforme-e-strumenti/baserow.md). Tutto ciò che serve sapere sul suo funzionamento è spiegato [qui](piattaforme-e-strumenti/baserow.md).
 
-### How
+### Cosa
 
-Pino is handled through a software named [Baserow](../piattaforme-e-strumenti/baserow.md), and everything you need to know about it is thorougly explained [here](../piattaforme-e-strumenti/baserow.md).
+Pino raccoglie prevalentemente dati sulle persone e gli enti che partecipano a Scambi.
+
+In Pino esistono diverse **tabelle**, ciascuna con un ruolo specifico.
+
+* in [_Relazioni_](https://baserow.io/database/22288/table/58822) sono raccolte <mark style="background-color:yellow;">tutte le interazioni</mark> che Scambi ha (o vuole avere) con persone o enti esterni.
+  * ogni genere di relazione, anche se non andata a buon fine, va assolutamente inserita.
+  * se una relazione si ripete per più di un’edizione, il campo **`stato`** si riferisce automaticamente all’**ultima edizione**.
+* in _Programma `anno_edizione`_ (e.g. [_Programma 2022_](https://baserow.io/database/22288/table/58806)) sono raccolte tutte le attività **confermate** per una determinata edizione.
+  * Che il nome non confonda: in Programma non devono essere presenti solo cose che fisicamente avverranno, ma **ogni sorta di collaborazione** relativa all’edizione in questione.
+* in _Programma `anno_edizione`_ (e.g. [_Persone 2022_](https://baserow.io/database/22288/table/61708)) sono raccolte tutte le persone che, in qualunque ruolo, partecipano ad un’edizione. Questa tabella serve prevalentemente alle [Civette](staff/teams.md#civette) e alle [Tartarughe](staff/teams.md#civette), per comprendere tempistiche, disponibilità, vitto e alloggio.
