@@ -10,7 +10,7 @@ Scambi Festival è una di quelle cose che sono infinitamente più complesse e st
 | -------------------------------------------- | -------------------- | ---------------------------------------------------- |
 | Scelta tema                                  | tutti                | ottobre anno precedente                              |
 | Invito ospiti e ipotesi lab, pinoli, collab  | Stambecchi           | da gennaio                                           |
-| [Merchandising](merchandising.md)            | Pavoni e Civette     | da marzo                                             |
+| [Merchandising](merchandising/)              | Pavoni e Civette     | da marzo                                             |
 | Richiesta occupazione spazi e suolo pubblico | Civette              | preferibilmente entro fine luglio, max inizio agosto |
 | Richiesta fondi e permessi al comune         | Civette e Camaleonti | da dopo il Festival di Sanremo                       |
 | Programma generale                           | Stambecchi e Civette | entro fine giugno                                    |
