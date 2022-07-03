@@ -11,7 +11,7 @@ Dopo un periodo di prova di 2-3 settimane, le [Tartarughe](../staff/teams.md#tar
 
 After the trial period of 2-3 weeks, the [Turtles](../staff/teams.md#tartarughe) will guide the [_new entry_](../staff/new-entry.md) __ through the following registration process in order to officially become a member of [A.P.S. Oltre](./), and effectively a member of the[ staff ](../staff/)of Scambi. 
 
-### Sociə attivə - Active member
+### Sociə attivə
 
 1. **PAGAMENTO**: versare 20€ ad `A.P.S. Oltre`, in due possibili modi:
    * via bonifico all’IBAN `IT63E0501801400000016986952`
