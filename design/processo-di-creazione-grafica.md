@@ -1,3 +1,7 @@
+---
+description: Gli step da seguire per creare una grafica, insieme al team Pavoni
+---
+
 # 🖼 Processo di creazione grafica
 
 Se hai bisogno di una grafica per un progetto, un articolo, un post, o qualunque cosa inerente a Scambi, questo è il documento giusto per te.
@@ -42,9 +46,6 @@ Indicazioni generali per capire quanto tempo è necessario per realizzare un pro
 Queste indicazioni valgono per Miranda, anche se il tempo lavoro richiesto da altre persone potrebbe variare.
 
 Bisogna considerare che, anche chiedendo la grafica in tempo, con l’organico attuale se c’è troppo da fare in un certo periodo è molto più difficile portare a compimento le richieste, perciò è sempre meglio chiedere il prima possibile.
-
-\
-
 
 ### E se nessuno può realizzare una grafica?
 

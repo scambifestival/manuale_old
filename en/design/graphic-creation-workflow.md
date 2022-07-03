@@ -1,3 +1,7 @@
+---
+description: The steps to follow to create a graphics, by working with the Peacocks team
+---
+
 # 🖼 Graphic creation workflow
 
 You are a part or partner of Scambi and you need a graphic for a project, an article, a post or anything else? Then this is the right document for you! Here it will be explained, what steps you have to take, what you have to pay attention to, how much time it takes etc.
@@ -37,9 +41,6 @@ Those are indications for my work process other people in the team might take mo
 
 Even if you ask on time if there is already a lot of other things, I have to do Scambi related or not, I might be able to do it, so if you can request as early as possible!
 
-\
-
-
-#### What if no one can do a graphic for me?
+### What if no one can do a graphic for me?
 
 There is still [Penpot](https://design.penpot.app/) or [Canva](https://www.canva.com/) which you can use in emergencies, the graphic team will send you a tutorial for Penpot and some general design indications, we also have some pre-made templates for social media posts which you could use.

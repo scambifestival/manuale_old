@@ -1,8 +1,26 @@
+---
+description: I colori di Scambi Festival
+---
+
 # 🎨 Color Palette
 
-Scambi Festival’s color palette was born quite randomly by Miranda’s drawing experiments.
+I codici HEX di seguito sono scritti all’interno del selettore root values di un file CSS, per essere pronti ad essere utilizzati.
 
-Below, the HEX values for the colors in the palette, placed in a CSS root in order to be readily used.
+```css
+:root {
+  --off-white: #FBFBFB;
+  --yellow: #FFF166;
+  --peach: #EF7D6E;
+  --blue: #233FB9;
+  --purple: #69088D;
+}
+```
+
+![](../.gitbook/assets/color-palette-2022.svg)
+
+### 2021
+
+La primissima palette colori di Scambi Festival è nata piuttosto a caso da esperimenti di disegno di Miranda.
 
 ```css
 :root {
@@ -14,3 +32,5 @@ Below, the HEX values for the colors in the palette, placed in a CSS root in ord
   --lavanda: #514A9C;
 }
 ```
+
+![](../.gitbook/assets/color-palette-2021.svg)
