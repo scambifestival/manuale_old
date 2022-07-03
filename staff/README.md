@@ -13,3 +13,7 @@ Tuttз sono parte di un [team](teams.md) e ciascun team possiede un [Team Leader
 Ciascun ingranaggio di questo meccanismo favolosamente intricato deve efficacemente incastrarsi con gli altri; è dunque fondamentale seguire le linee guida per la comunicazione interna.
 
 ![](../.gitbook/assets/scambi-staff.svg)
+
+### Fase straordinaria
+
+La struttura dello staff diventa molto più fluida e partecipata, subendo alcuni sconvolgimenti, nel corso della [fase straordinaria](../fase-straordinaria.md).

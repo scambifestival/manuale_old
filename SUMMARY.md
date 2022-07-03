@@ -15,6 +15,7 @@
   * [Pinoli](format/pinoli.md)
 * [🌲 Pino](pino.md)
 * [🍍 La Pigna](la-pigna.md)
+* [🚀 Fase straordinaria](fase-straordinaria.md)
 * [🌪 Workflow](workflow.md)
 * [📢 Comunicazione](comunicazione/README.md)
   * [🤌 Linguaggio](comunicazione/linguaggio.md)
