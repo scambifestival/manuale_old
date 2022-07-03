@@ -9,3 +9,5 @@ In quanto priva di partita IVA, [A.P.S. Oltre](../associazione/) non può emette
 Una volta stabiliti ed [ufficializzati i dettagli della collaborazione](sponsor.md#workflow), è sufficiente e necessario a inviare all’ente che effettuerà una transazione a nostro beneficio una “<mark style="background-color:yellow;">**ricevuta**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">di</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">**donazione liberale**</mark>”, che in linea di massima segue [questo facsimile](https://nuvola.scambi.org/s/oADY74ynzpWWe3n):
 
 ![](../.gitbook/assets/ricevuta-donazione-liberale.jpg)
+
+Dopo aver ricevuto la ricevuta firmata, l’ente dovrebbe effettuare un bonifico all’IBAN della nostra associazione.
