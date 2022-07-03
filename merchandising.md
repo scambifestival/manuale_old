@@ -15,10 +15,10 @@ The steps to perform are:
    1. raw material: the producer of the simple material (e.g. shirt, mug, hoodie…)
    2. print shop: the store that would print the graphics on the raw material
 3. **Printing**
-4. **Distributing**: as an [APS](Associazione/), we cannot print any invoice, therefore we are not allowed to directly sell anything. Nevertheless, in order to earn funds out of merchandising, we perform the little trick of gifting merchandise for free in exchange for donations.
+4. **Distributing**: as an [APS](associazione/), we cannot print any invoice, therefore we are not allowed to directly sell anything. Nevertheless, in order to earn funds out of merchandising, we perform the little trick of gifting merchandise for free in exchange for donations.
 
 {% hint style="info" %}
-Note that steps 1 and 2 should be carried out at the same time, by [the Peacocks](Staff/Teams.md#peacocks) and [the Owls](Staff/Teams.md#owls) respectively. This is important both to be efficient in terms of timing, but above all to allow the designers to communicate with the print shop concerning peculiar intentions (e.g. printing a writing on a sleeve of hoodies, defining the kind of printing material…)
+Note that steps 1 and 2 should be carried out at the same time, by [the Peacocks](staff/teams.md#civette) and [the Owls](staff/teams.md#civette) respectively. This is important both to be efficient in terms of timing, but above all to allow the designers to communicate with the print shop concerning peculiar intentions (e.g. printing a writing on a sleeve of hoodies, defining the kind of printing material…)
 {% endhint %}
 
 ## Printing

@@ -12,7 +12,7 @@ L’Associazione, dal 18 febbraio 2021, è regolarmente iscritta al [Registro de
 
 ### Statuto
 
-Il suo **statuto** è pubblicamente consultabile in [questa pagina](Statuto-APS-Oltre.md). Gli estremi bancari ed i dati legali sono invece in fondo alla pagina.
+Il suo **statuto** è pubblicamente consultabile in [questa pagina](statuto-dellaps-oltre.md). Gli estremi bancari ed i dati legali sono invece in fondo alla pagina.
 
 ### Iscrizione
 
