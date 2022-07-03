@@ -41,6 +41,8 @@
   * [🏘 Comune di Sanremo](relazioni/comune-di-sanremo.md)
 * [💸 Palanche](palanche.md)
   * [💅 Sponsor](palanche/sponsor.md)
+  * [🧮 Budget](palanche/budget/README.md)
+    * [🌀 History](palanche/budget/history.md)
   * [💰 Ricevere donazioni](palanche/ricevere-donazioni.md)
 * [♿ Accessibilità](Accessibilita.md)
 * [🕳 Meta](meta.md)
