@@ -33,6 +33,7 @@
   * [📄 Statuto A.P.S. Oltre](associazione/statuto-a.p.s.-oltre.md)
   * [📩 Iscrizione nuovə sociə](associazione/iscrizione-nuov-soci.md)
 * [🖥 Piattaforme e strumenti](base-knowledge/piattaforme-e-strumenti/README.md)
+  * [📧 Email](piattaforme-e-strumenti/email.md)
   * [Markdown](piattaforme-e-strumenti/markdown.md)
   * [Buttondown](base-knowledge/piattaforme-e-strumenti/buttondown.md)
   * [Baserow](piattaforme-e-strumenti/baserow.md)
