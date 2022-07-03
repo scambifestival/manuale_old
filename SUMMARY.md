@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🫀 Dietro le quinte](README.md)
-* [👩👩👧👦 Staff](staff/README.md)
+* [👩👩👧👦 👩👩👧👦 Staff](staff/README.md)
   * [🙋 Sociə](staff/soci.md)
   * [💏 Teams](staff/teams.md)
   * [🧶 Team Leaders](staff/team-leaders.md)
@@ -47,9 +47,9 @@
 * [♿ Accessibilità](Accessibilita.md)
 * [🕳 Meta](meta.md)
 
-## 🇬🇧 English <a href="#en" id="en"></a>
+## 🇬🇧 🇬🇧 English <a href="#en" id="en"></a>
 
-* [👩👩👧👦 Staff](en/staff/README.md)
+* [👩👩👧👦 👩👩👧👦 Staff](en/staff/README.md)
   * [🙋 Members](en/staff/members.md)
   * [💑 Teams](en/staff/teams.md)
   * [🧶 Team Leaders](en/staff/team-leaders.md)
