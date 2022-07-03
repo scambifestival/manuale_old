@@ -9,3 +9,5 @@ description: Tutte le cose da scrivere, migliorare, aggiungere su manuale.scambi
 * Add “Budget” to each section of the Manual, back-linked to a part of the workflow table
   * Finish [Budgets’ history](palanche/budget/history.md)
 * Finish [Budget](palanche/budget/)
+* Write about Usignoli and concert planning workflow
+* Crowdfunding night organizing workflow
