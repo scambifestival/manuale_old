@@ -55,6 +55,7 @@
   * [Pinoli](en/format/pinoli.md)
 * [📢 Communication](en/communication/README.md)
   * [🤌 Language](en/Communication/Language.md)
+  * [👀 Pitch email](en/communication/pitch-email.md)
   * [💌 Newsletter](en/Communication/Newsletter.md)
   * [📰 Press review](en/Communication/Press-review.md)
 * [🖌 Design](en/design/README.md)
