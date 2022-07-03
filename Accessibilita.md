@@ -34,6 +34,8 @@ Collaboriamo con gruppi scout ed artigiani locali per la costruzione di rampe in
 
 Anche se con giri assurdi, in molti casi si può giungere ad un luogo anche se la via principale è difficilmente accessibile. Con il supporto delle Civette, le Ghiandaie studiano il territorio al meglio per sfruttare ogni possibilità.
 
+In particolare, per avvalerci di una parere più autorevole, ci consultiamo con il [**Comitato P.E.B.A.**](https://www.comunedisanremo.it/pagina45\_comitato-peba.html) (Piano di Eliminazione delle Barriere Architettoniche) del comune di Sanremo.
+
 ### Contenuti
 
 Accessibilità non vuol dire unicamente permettere a chiunque di raggiungere fisicamente ogni luogo, ma anche permettere a ciascuno di vivere appieno l’esperienza che intende vivere. Questo non si può ottenere unicamente con la traduzione in LIS per sordi e con l’accompagnamento di ciechi e ipovedenti. È necessario che esperienze e contenuti siano passati al vaglio delle Ghiandaie, o idealmente concepite insieme a loro.
