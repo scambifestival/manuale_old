@@ -43,6 +43,7 @@
   * [💅 Sponsor](palanche/sponsor.md)
   * [💰 Ricevere donazioni](palanche/ricevere-donazioni.md)
 * [Accessibilità](Accessibilita.md)
+* [Meta](meta.md)
 
 ## 🇬🇧 English <a href="#en" id="en"></a>
 
