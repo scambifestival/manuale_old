@@ -14,3 +14,5 @@ description: Tutte le cose da scrivere, migliorare, aggiungere su manuale.scambi
 * Post-festival todo list
 * Silicon to do and timing
 * More in-depth Deck explanation for usage
+* Pino: add explanation of who is in “Persone” and who is in relazioni and who is in alloggi
+* Pino: add explanation of public data such as description, url and bio
