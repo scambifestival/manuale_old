@@ -16,3 +16,4 @@ description: Tutte le cose da scrivere, migliorare, aggiungere su manuale.scambi
 * More in-depth Deck explanation for usage
 * Pino: add explanation of who is in “Persone” and who is in relazioni and who is in alloggi
 * Pino: add explanation of public data such as description, url and bio
+* Who SMM and Press office Coordinator are and what they do an what is the difference
