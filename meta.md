@@ -17,3 +17,4 @@ description: Tutte le cose da scrivere, migliorare, aggiungere su manuale.scambi
 * Pino: add explanation of who is in “Persone” and who is in relazioni and who is in alloggi
 * Pino: add explanation of public data such as description, url and bio
 * Who SMM and Press office Coordinator are and what they do an what is the difference
+* Workflow of Lab production: timing, videocalls, people and teams involved
