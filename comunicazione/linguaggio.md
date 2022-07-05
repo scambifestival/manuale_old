@@ -17,4 +17,28 @@ Trovi [qui](https://italianoinclusivo.it/scrittura/) tutto quello che ti serve s
 ### Terminologia
 
 * “Lab” è sempre da preferire a “Laboratorio”
-* ??? è chi crea/modera un laboratorio
+* "Labber" è chi tiene un laboratorio
+* "Staff" si riferisce al team che organizza Scambi durante tutto l'anno
+* "Volontari internazionali" sono i ragazzi da tutta Europa che vengono ad aiutarci esclusivamente durante la settimana del festival
+* "Partecipanti" è sempre da preferire a pubblico, visitatori e simili
+
+### Traduzione:flag\_it::flag\_gb:
+
+Associazione di Promozione Sociale (APS) -> Association of Social Promotion
+
+Consiglio Direttivo -> Executive Board
+
+Incontro -> Encounters
+
+Laboratorio -> Lab
+
+Laboratori -> Labs
+
+Paneuretico -> Paneurethic&#x20;
+
+Squilibrio -> Disequilibrium
+
+
+
+:exclamation:Alcune parole non vengono **mai** tradotte: Scambi, Pigna, Pinoli
+
