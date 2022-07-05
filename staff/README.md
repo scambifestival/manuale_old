@@ -2,7 +2,7 @@
 description: L’organigramma dello staff di Scambi Festival
 ---
 
-# 👩👩👧👦 Staff
+# 🫂 Staff
 
 Scambi è ampio e complesso. Per questa ragione, chi lo realizza è organizzato secondo una splendida, funzionale, particolarissima **struttura**.
 
