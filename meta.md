@@ -19,8 +19,4 @@ description: Tutte le cose da scrivere, migliorare, aggiungere su manuale.scambi
 * Who SMM and Press office Coordinator are and what they do an what is the difference
 * Workflow of Lab production: timing, videocalls, people and teams involved
 * CSV Polis printing
-* Add terms to Language:
-  * Paneurethic
-  * Disequilibrium
-  * Labs
 * Add Manual editing tutorial
