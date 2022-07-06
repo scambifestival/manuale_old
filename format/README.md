@@ -8,8 +8,10 @@ Uno degli elementi che rende Scambi una figata unica, ma contemporaneamente un�
 
 Scambi sta creando (o, se vogliamo tirarcela, _ha creato_) il _proprio_ format. In particolare, gli elementi fondamentali caratterizzanti del format di Scambi possono essere sintetizzati in un insieme di condizioni necessarie e sufficienti:
 
-* Il laboratorio è al centro di ogni&#x20;
+### Eventi minori
 
-{% hint style="info" %}
-**WIP**: Work in progress
-{% endhint %}
+Scambi non è limitato al festival dell’ultima settimana di agosto. Ci impegniamo a realizzare anche alcuni altri piccoli ma significativi eventi nel corso dell’anno.
+
+{% content-ref url="../eventi-minori/" %}
+[eventi-minori](../eventi-minori/)
+{% endcontent-ref %}

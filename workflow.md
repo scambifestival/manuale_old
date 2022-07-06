@@ -4,7 +4,9 @@ description: Gli step della costruzione di Scambi Festival
 
 # 🌪 Workflow
 
-Scambi Festival è una di quelle cose che sono infinitamente più complesse e stressanti di quanto possa sembrare da fuori. Tuttavia, poiché siamo degli squilibrati sognatori pragmatici, in questa sezione del Manuale di Scambiologia proviamo a schematizzare e riassumere gli step della sua realizzazione.
+Scambi Festival è una di quelle cose che sono infinitamente più complesse e stressanti di quanto possa apparire.
+
+Tuttavia, poiché siamo degli squilibrati sognatori pragmatici, in questa sezione del Manuale di Scambiologia proviamo a riassumere _<mark style="background-color:yellow;">ogni passaggio</mark>_ <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">per sua realizzazione</mark>.
 
 | Cosa                                                                                            | Team                            | Quando                                                                                  |
 | ----------------------------------------------------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------- |
@@ -13,6 +15,7 @@ Scambi Festival è una di quelle cose che sono infinitamente più complesse e st
 | Invito [ospiti](relazioni/), [ipotesi lab](format/lab.md), [pinoli](format/pinoli.md)           | tutti                           | da gennaio a fine giugno                                                                |
 | Ricerca [sponsor](palanche/sponsor.md) e [collab](relazioni/)                                   | tutti                           | da dicembre a metà luglio                                                               |
 | [Prima tranche di richieste e permessi al comune](relazioni/comune-di-sanremo.md#prima-tranche) | Civette e Camaleonti            | le settimane subito dopo il Festival di Sanremo                                         |
+| Pianificazione [_crowdfunding night_](eventi-minori/crowdfunding-night/#tempistiche)__          | chiunque dei sanremesi          | da marzo                                                                                |
 | Programma generale                                                                              | [Referenti](staff/referente.md) | entro fine giugno                                                                       |
 | Verifica [accessibilità contenuti](Accessibilita.md#contenuti)                                  | Ghiandaie + Stambecchi          | da metà giugno a fine luglio                                                            |
 | [Seconda tranche di richieste al comune](relazioni/comune-di-sanremo.md#seconda-tranche)        | Civette                         | entro fine luglio, max inizio agosto                                                    |
