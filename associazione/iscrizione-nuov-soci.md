@@ -8,7 +8,7 @@ Dopo un periodo di prova di 2-3 settimane, le [Tartarughe](../staff/teams.md#tar
    * via bonifico all’IBAN `IT63E0501801400000016986952`
    * [via PayPal](https://manuale.scambi.org/paypal.me/apsoltre) a `palanche@scambi.org`, specificando sempre che è preferibile utilizzare la modalità di trasferimento denaro amici e famiglia, per non pagare la commissione
 2. **LIBERATORIE**: compilare e caricare nella cartella “[documentazione soci](https://nuvola.scambi.org/f/118956)” (NOTA: utilizzare sempre la versione in PDF):
-   * la [liberatoria per il trattamento dei dati](https://nuvola.scambi.org/s/RHPnZDRwJGAemtq), con cui il socio permette all’A.P.S. Oltre di conservare i suoi dati
+   * la [liberatoria per il trattamento dei dati](https://nuvola.scambi.org/s/TnEwFrwPwr94MHH), con cui il socio permette all’A.P.S. Oltre di conservare i suoi dati
    * la [liberatoria per il trattamento delle immagini](https://nuvola.scambi.org/s/RHPnZDRwJGAemtq), con cui il socio permette all’A.P.S. Oltre di conservare e condividere sue immagini
    * l’[accordo di riservatezza](https://nuvola.scambi.org/s/fkSYNNW7c9idwoq), con cui il socio si impegna a non salvare privatamente e a non diffondere dati sensibili con cui ha a che fare lavorando per l’associazione
 3. **LIBRO SOCI**: aggiungere il nuovo iscritto al libro soci
