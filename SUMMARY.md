@@ -19,6 +19,8 @@
 * [🌪 Workflow](workflow.md)
 * [📢 Comunicazione](comunicazione/README.md)
   * [🤌 Linguaggio](comunicazione/linguaggio.md)
+  * [😈 Social](comunicazione/social/README.md)
+    * [🗓 PED](comunicazione/social/ped.md)
   * [👀 Pitch email](comunicazione/pitch-email.md)
   * [📰 Rassegna stampa](comunicazione/rassegna-stampa.md)
   * [💌 Newsletter](comunicazione/newsletter.md)
