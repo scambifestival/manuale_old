@@ -9,7 +9,7 @@ I codici HEX di seguito sono scritti all’interno del selettore root values di 
 ```css
 :root {
   --off-white: #FBFBFB;
-  --yellow: #FFF166;
+  --yellow: #FFD166;
   --peach: #EF7D6E;
   --blue: #233FB9;
   --purple: #69088D;
