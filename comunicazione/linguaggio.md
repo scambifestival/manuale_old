@@ -27,7 +27,7 @@ I valori di accessibilità e inclusione su cui Scambi si basa comportano un util
 
 Cambiare abitudini richiede dedizione, che si costruisce giorno per giorno, sperimentando, mettendosi in discussione, dialogando, ma allo stesso tempo ricordandosi il motivo alla base di questi intenti: la realizzazione di **un mondo capace di esistere con e **_**nelle**_** differenze**.
 
-### Terminologia
+### Glossario
 
 * “Lab” è sempre da preferire a “Laboratorio”
 * “Labber” è chi tiene un laboratorio
