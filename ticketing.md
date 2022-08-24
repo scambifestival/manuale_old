@@ -63,7 +63,7 @@ Ad ogni _ticket_ è associato un nominativo; dunque, è eventualmente possibile 
 
 ### Liste di _check-in e Ticket Checking_
 
-Ogni _ticket_ prenotato viene aggiunto ad una lista di _check-in_ in base all'attività ad esso associata. È, inoltre, possibile creare lista di _check-in_ manualmente e con determinate caratteristiche per attività particolari. &#x20;
+Ogni _ticket_ prenotato viene aggiunto ad una lista di _check-in_ in base all'attività ad esso associata. È, inoltre, possibile creare liste di _check-in_ manualmente e con determinate caratteristiche per attività particolari. &#x20;
 
 Pretix consente di controllare la validità di un _ticket_ tramite un'applicazione chiamata _<mark style="color:purple;">pretixSCAN</mark>_, scaricabile su dispositivi mobili_._ Prima di poter procedere alla convalida, il dispositivo deve essere abilitato a compiere tale azione __ tramite la scansione di un codice QR generato dal sistema. Dopo l'avvenuta abilitazione, la validità può essere verificata tramite scansione del codice QR associato al _ticket_ da controllare.
 
