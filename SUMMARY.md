@@ -55,6 +55,7 @@
   * [💰 Ricevere donazioni](palanche/ricevere-donazioni.md)
 * [♿ Accessibilità](Accessibilita.md)
 * [🕳 Meta](meta.md)
+* [🎟 Ticketing](ticketing.md)
 
 ## 🇬🇧 English <a href="#en" id="en"></a>
 
