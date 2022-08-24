@@ -18,7 +18,7 @@ Per l'edizione 2022, la lista conterrà i giorni compresi tra il 26 ed il 28 Ago
 
 Cliccando su un elemento della lista, saranno visibili tutte le attività prenotabili previste per quella data, comprese eventuali attività serali. Esse vengono rappresentate mostrandone l'immagine, il titolo e la descrizione. Sotto ogni attività sono elencati i turni disponibili per la data specificata, ovvero l'ora, il luogo, il numero di _ticket_ ancora disponibili e, se il laboratorio prevede l'erogazione in multilingua, la lingua della rispettiva ripetizione.
 
-Ogni _ticket_ è nominativo, ma è possibile prenotarne più di uno alla volta, anche per attività diverse: è sufficiente aggiungere i _ticket_ desiderati all'interno del carrello e procedere alla conferma inserendo tutti i dati richiesti per ciascuno di essi.
+Ogni _ticket_ è nominativo, ma è possibile prenotarne più di uno alla volta, anche per attività diverse: è sufficiente aggiungere i _ticket_ desiderati all'interno del carrello e procedere alla conferma inserendo tutti i dati richiesti per ciascuno di essi. I ticket vengono riservati per 10 minuti, terminati i quali sara necessario ripetere la procedura.
 
 Per rendere le attività disponibili a più persone possibile, non è consentito prenotare più _ticket_ con lo stesso nome per la stessa attività nel medesimo turno.
 
