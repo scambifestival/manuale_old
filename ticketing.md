@@ -75,5 +75,5 @@ Una volta scansionato un _ticket_, scansionandolo una seconda volta risulterà g
 
 La scansione dei _ticket_ è un'utile strumento per consentire allo staff di Scambi Festival di tenere traccia del numero di persone che prendono parte alle varie attività e di garantire un'efficace organizzazione. Infatti, scansionando un _ticket_, è possibile verificarne non solo la validità, ma anche se la persona ad esso associata ha richiesto assistenza durante la partecipazione, tramite apposito avviso.
 
-Tuttavia, è molto importante assicurarsi di scegliere la data e lista di _check-in_ corretta, altrimenti i biglietti non risultano validi.
+Tuttavia, è molto importante assicurarsi di scegliere la data e la lista di _check-in_ corretta, altrimenti i biglietti non risultano validi.
 
