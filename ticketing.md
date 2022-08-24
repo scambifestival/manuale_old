@@ -8,7 +8,7 @@ description: >-
 
 Durante le edizioni del nostro festival, chi desidera partecipare a un LAB (o altre attività specifiche) deve effettuare un ordine di prenotazione. Sarà possibile prenotare attraverso il nostro shop su Pretix, una piattaforma adibita a tale scopo. Le lingue disponibili sono l'italiano e l'inglese. Il design dello shop è stato personalizzato utilizzando il logo di Scambi Festival e [la nuova palette di colori](design/color-palette.md) utilizzata sulle nostre piattaforme.
 
-Accedendo allo shop  visibile una lista in cui sono elencate le giornate dell'edizione del festival.
+Accedendo allo shop è visibile una lista in cui sono elencate le giornate dell'edizione del festival.
 
 {% hint style="info" %}
 Per l'edizione 2022, la lista conterrà i giorni compresi tra il 26 ed il 28 Agosto, inclusi. Il 25 non è visualizzato perché non sono presenti eventi che necessitino di prenotazione.
