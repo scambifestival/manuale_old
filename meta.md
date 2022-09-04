@@ -20,3 +20,5 @@ description: Tutte le cose da scrivere, migliorare, aggiungere su manuale.scambi
 * Workflow of Lab production: timing, videocalls, people and teams involved
 * CSV Polis printing
 * Add Manual editing tutorial
+* Add note about time requirements and personal commitment
+* Expenses report filing explanation
