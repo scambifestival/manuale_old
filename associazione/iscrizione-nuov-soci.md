@@ -20,7 +20,7 @@ Dopo un periodo di prova di 2-3 settimane, le [Tartarughe](../staff/teams.md#tar
    * _ALLtristi_, su Whatsapp
    * Chat dei team di appartenenza
 5. **CONTATTI**: aggiungerli ai [contatti su Nuvola](https://nuvola.scambi.org/apps/contacts)
-6. **NEWSLETTER**: iscriverlə alla newsletter, seguendo [queste istruzioni](../base-knowledge/piattaforme-e-strumenti/buttondown.md) e assegnando il tag `sociə` al nuovo iscritto. Assegnare il tag è fondamentale per assicurarsi che le comunicazioni ufficiali con i soci arrivino correttamente a tutti
+6. **NEWSLETTER**: iscriverlə alla newsletter, seguendo [queste istruzioni](../comunicazione/newsletter.md) e assegnando il tag `sociə` al nuovo iscritto. Assegnare il tag è fondamentale per assicurarsi che le comunicazioni ufficiali con i soci arrivino correttamente a tutti
 7. **NUVOLA**: creare un utente Nuvola (creato dai [Paguri](../staff/teams.md#paguri))
 8. **WORDPRESS**: creare un account su Wordpress (creato dai [Paguri](../staff/teams.md#paguri)), a cui il nuovo iscritto deve aggiungere
    * Foto
