@@ -39,6 +39,8 @@
   * [📄 Statuto A.P.S. Oltre](associazione/statuto-a.p.s.-oltre.md)
   * [📩 Iscrizione nuovə sociə](associazione/iscrizione-nuov-soci.md)
 * [🖥 Piattaforme e strumenti](base-knowledge/piattaforme-e-strumenti/README.md)
+  * [⚛ scambi.org](piattaforme-e-strumenti/scambi.org.md)
+  * [📤 x.scambi.org](piattaforme-e-strumenti/x.scambi.org.md)
   * [☁ Nuvola](piattaforme-e-strumenti/nuvola/README.md)
     * [📋 Deck](piattaforme-e-strumenti/nuvola/deck.md)
   * [📧 Email](piattaforme-e-strumenti/email.md)

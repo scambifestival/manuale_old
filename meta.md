@@ -22,3 +22,4 @@ description: Tutte le cose da scrivere, migliorare, aggiungere su manuale.scambi
 * Add Manual editing tutorial
 * Add note about time requirements and personal commitment
 * Expenses report filing explanation
+* Specific figures and roles inside each group (e.g. who talks to the municipality, who handles the service, etc.)
