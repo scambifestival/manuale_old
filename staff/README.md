@@ -16,4 +16,4 @@ Ciascun ingranaggio di questo meccanismo favolosamente intricato deve efficaceme
 
 ### Fase straordinaria
 
-La struttura dello staff diventa molto più fluida e partecipata, subendo alcuni sconvolgimenti, nel corso della [fase straordinaria](../fase-straordinaria.md).
+La struttura dello staff diventa molto più fluida e partecipata, subendo alcuni sconvolgimenti, nel corso della [fase straordinaria](../workflow/fase-straordinaria.md).

@@ -4,7 +4,7 @@ description: Cos’è e come funziona il cloud di Scambi Festival
 
 # ☁ Nuvola
 
-_****_[_**Nuvola**_](https://nuvola.scambi.org) è <mark style="background-color:yellow;">il cloud</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">self-hosted</mark>_ <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">di Scambi Festival</mark>. È basato su un software chiamato [Nextcloud](https://nextcloud.com) ([**scarica l’app**](https://nextcloud.com/install)!), e funziona come Google Drive (🤮). Nextcloud è fighissimo anche perché offre alcune estensioni che facilitano il nostro [workflow](../../workflow.md).
+_****_[_**Nuvola**_](https://nuvola.scambi.org) è <mark style="background-color:yellow;">il cloud</mark> <mark style="background-color:yellow;"></mark>_<mark style="background-color:yellow;">self-hosted</mark>_ <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">di Scambi Festival</mark>. È basato su un software chiamato [Nextcloud](https://nextcloud.com) ([**scarica l’app**](https://nextcloud.com/install)!), e funziona come Google Drive (🤮). Nextcloud è fighissimo anche perché offre alcune estensioni che facilitano il nostro [workflow](../../workflow/).
 
 * Usiamo [_**Deck**_](deck.md) per organizzare praticamente tutte le cose da fare.
 * Su [_**Passwords**_](https://nuvola.scambi.org/apps/passwords) sono salvate e criptate tutte le credenziali per ogni nostro servizio online. È possibile **condividerle** fra gli utenti di Nuvola.

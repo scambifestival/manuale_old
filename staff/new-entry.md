@@ -8,7 +8,7 @@ Chiunque può unirsi alla ciurma di sognatori pragmatici che dà forma a Scambi 
 Per farlo nel modo giusto, tuttavia, c’è un semplice ma importante **percorso** da seguire.
 
 {% hint style="info" %}
-Questo percorso è valido quando il festival è ancora lontano. Chi è interessato ad unirsi a ridosso del festival, deve seguire [il percorso per _new entries_ definito nella fase straordinaria](../fase-straordinaria.md#new-entries).
+Questo percorso è valido quando il festival è ancora lontano. Chi è interessato ad unirsi a ridosso del festival, deve seguire [il percorso per _new entries_ definito nella fase straordinaria](../workflow/fase-straordinaria.md#new-entries).
 {% endhint %}
 
 1. **Contattare** qualcuno che sia già parte dello staff, se non si conosce nessuno, basta [scriverci un’email](mailto:staff@scambi.org).
