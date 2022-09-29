@@ -4,7 +4,7 @@ description: L’approccio che abbiamo per rendere Scambi Festival accessibile a
 
 # ♿ Accessibilità
 
-Le [Ghiandaie](staff/teams.md#ghiandaie) si occupano di rendere il festival accessibile sotto ogni aspetto. Il loro lavoro si sviluppa contemporaneamente su diversi fronti.
+Le [Ghiandaie](staff/teams/#ghiandaie) si occupano di rendere il festival accessibile sotto ogni aspetto. Il loro lavoro si sviluppa contemporaneamente su diversi fronti.
 
 ### Collaborazioni
 

@@ -17,7 +17,7 @@ Il sito web di Scambi ([scambi.org](https://scambi.org)) è generato grazie ad u
    * `permalink`: la stringa che segue l’indirizzo `scambi.org`. Scrivendo `/nuova-pagina/`, il link della pagina sarà `scambi.org/nuova-pagina`. **Nota**: <mark style="background-color:blue;">mettere sempre uno slash iniziale ed uno finale</mark>.
    * `description`: una breve descrizione dei contenuti della pagina, che apparirà nell’anteprima (quella cosa che appare sopra il messaggio quando si invia un link via WhatsApp).
    * `image`: il link all’immagine della pagina. Si può copiare ed incollare da internet, oppure si può [caricare direttamente su x.scambi.org](x.scambi.org.md).
-6. Anche se la pagina è completa, non è automaticamente pubblicato. Contattare [un paguro](../staff/teams.md#paguri) o [un membro di Silicon](../staff/teams.md#paguri) affinché lancino un comando che pubblica il sito, aggiornato con la nuova pagina.
+6. Anche se la pagina è completa, non è automaticamente pubblicato. Contattare [un paguro](../staff/teams/#paguri) o [un membro di Silicon](../staff/teams/#paguri) affinché lancino un comando che pubblica il sito, aggiornato con la nuova pagina.
 
 <figure><img src="../.gitbook/assets/nuova-pagina.jpg" alt="Screenshot dell’editior di testo per una pagina di esempio"><figcaption></figcaption></figure>
 

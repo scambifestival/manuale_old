@@ -9,5 +9,5 @@ Per ora, Scambi Festival ha un unico account condiviso per la posta elettronica:
 Poiché sono in moltissimз ad accedere ed utilizzare la casella, è importante seguire alcune semplici ma fondamentali regole di utilizzo, per non perdere pezzi o fare confusione.
 
 * qualunque email si scelga di inviare da indirizzo privato, ma riguardante Scambi, deve avere `staff@scambi.org` in Cc.
-* qualunque email esca da staff@scambi.org deve essere <mark style="background-color:yellow;">letta e approvata da almeno un</mark> [<mark style="background-color:yellow;">Camaleonte</mark>](../staff/teams.md#camaleonti).
+* qualunque email esca da staff@scambi.org deve essere <mark style="background-color:yellow;">letta e approvata da almeno un</mark> [<mark style="background-color:yellow;">Camaleonte</mark>](../staff/teams/#camaleonti).
 * Le email in “Posta in arrivo” sono email “da fare”: se chi si sta occupando di questa conversazione ha risposto all’email, oppure se sta venendo gestita, va <mark style="background-color:yellow;">**spostata**</mark> <mark style="background-color:yellow;"></mark><mark style="background-color:yellow;">in archivio o in una cartella dedicata</mark>.

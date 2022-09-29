@@ -8,24 +8,21 @@ description: >-
 
 _Oltre_ è un’[Associazione di Promozione Sociale](https://it.wikipedia.org/wiki/Associazione\_di\_promozione\_sociale), fondata il 9 settembre 2020 da sette amici e soci fondatori.
 
-L’Associazione, dal 18 febbraio 2021, è regolarmente iscritta al [Registro degli Enti del Terzo Settore della Regione Liguria](https://www.regione.liguria.it/homepage/salute-e-sociale/terzo-settore/promozione-sociale.html) e dal 23 novembre 2021 al nuovo [RUNTS](https://www.lavoro.gov.it/temi-e-priorita/Terzo-settore-e-responsabilita-sociale-imprese/focus-on/Riforma-terzo-settore/Pagine/Registro-Unico-Nazionale-Terzo-Settore.aspx).
+APS Oltre è iscritta al [Registro degli Enti del Terzo Settore della Regione Liguria](https://www.regione.liguria.it/homepage/salute-e-sociale/terzo-settore/promozione-sociale.html) dal 18 febbraio 2021 e al [RUNTS](https://servizi.lavoro.gov.it/runts) dall’11 luglio 2022.
 
-### Statuto
+### Dati
 
-Il suo **statuto** è pubblicamente consultabile in [questa pagina](statuto-dellaps-oltre.md). Gli estremi bancari ed i dati legali sono invece in fondo alla pagina.
+**email**: [staff@scambi.org](mailto:staff@scambi.org)\
+**PEC**: aps-oltre@pec.it\
+**Codice Fiscale**: 90098410088\
+**IBAN**: IT63E0501801400000016986952\
+[**PayPal**](https://paypal.me/apsoltre)****
+
+**Sede legale**
+
+Via Dante Alighieri, 81\
+18038 Sanremo (IM), Italia
 
 ### Iscrizione
 
-Le [iscrizioni](iscrizione-nuov-soci.md) all’APS Oltre sono aperte a chiunque desiderasse contribuire alle sue attività diventando socio. Per fare domanda, è sufficiente inviare un’email a [direttivo@scambi.org](mailto:direttivo@scambi.org?subject=Domanda%20di%20Iscrizione%20APS%20Oltre). La quota di iscrizione corrisponde a una donazione minima di **20€**.
-
-### Direttivo
-
-Al momento, il [direttivo](../staff/teams.md#camaleonti)—anche chiamato **Consiglio d’Amministrazione** o, internamente, [_Camaleonti_](../staff/teams.md#camaleonti)—è costituito da:
-
-* Anna Mastrantuono, presidente
-* Tommaso Marmo, vice-presidente
-* Cecilia Massa, tesoriere
-* Stefania Ilie, segretaria
-* Margherita Moro
-* Chiara Mallozzi
-* Leonardo Venturi
+Vedi pagina “[New entry](../staff/new-entry.md)„.

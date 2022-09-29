@@ -28,4 +28,4 @@ Il fine ultimo di questi messaggi è di spingere i gruppi ad avere una schematic
 * _**Scambi IMPORTANTE**_ è un gruppo limitato ad <mark style="background-color:yellow;">annunci</mark> unilaterali, di cui le eventuali relative discussioni procedono su _Scambi STAFF_.
 * _**Scambidee**_ è dove ciascuno può condividere ogni genere di idea relativa a Scambi, catalogandola secondo [determinati criteri](https://t.me/c/1688844197/67).
 * Del gruppo _**Sanremesi**_ fanno parte tutte le persone di Sanremo. Il gruppo viene utilizzato per conversazioni relative a argomenti che sicuramente non interessano o non riguardano persone di fuori.
-* Ogni [team](teams.md) ha il proprio gruppo specifico
+* Ogni [team](teams/) ha il proprio gruppo specifico

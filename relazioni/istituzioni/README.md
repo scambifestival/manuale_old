@@ -16,4 +16,4 @@ Il lato **politico** consiste nell’incessante _**lobbying**_ nei confronti del
 
 ### Burocrazia
 
-[Il lato **amministrativo**](./#undefined) consiste nel lavoro parallelo che mette in atto quanto stabilito a livello politico. Si tratta di **burocrazia**, **permessi**, logistica, e dunque della gestione dei rapporti con gli uffici pubblici che se ne occupano. Chi lavora in questo ambito sono [i Falchi](../../staff/teams.md#falchi).
+[Il lato **amministrativo**](./#undefined) consiste nel lavoro parallelo che mette in atto quanto stabilito a livello politico. Si tratta di **burocrazia**, **permessi**, logistica, e dunque della gestione dei rapporti con gli uffici pubblici che se ne occupano. Chi lavora in questo ambito sono [i Falchi](../../staff/teams/#falchi).
