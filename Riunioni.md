@@ -20,7 +20,7 @@ Vedi la pagina “[Assemblea](associazione/assemblea.md)„.
 
 ### Team Meetings
 
-I _**Team Meetings**_ sono programmati e condotti in completa **autonomia** da ciasun [_Team_](staff/teams/), con la direzione del [_Team Leader_](staff/team-leaders.md). Quest’ultimə non decide arbitrariamente nulla, ma si preoccupa che ci si ritrovi quando è necessario, che si tocchino tutte le questioni in sospeso e che si discuta attivamente del futuro e dell’efficacia del team.
+I _**Team Meetings**_ sono programmati e condotti in completa **autonomia** da ciasun [_Team_](staff/teams/), con la direzione del [_Team Leader_](staff/ruoli/team-leader.md). Quest’ultimə non decide arbitrariamente nulla, ma si preoccupa che ci si ritrovi quando è necessario, che si tocchino tutte le questioni in sospeso e che si discuta attivamente del futuro e dell’efficacia del team.
 
 ### Team Leaders
 

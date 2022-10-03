@@ -1,22 +1,26 @@
 ---
 description: >-
   Come funziona il servizio di prenotazione dal punto di vista di chi prenota e
-  indicazioni sulla verifica di validità. Niente tecnicismi complicati.
+  indicazioni sulla verifica di validità.
 ---
 
 # 🎟 Ticketing
 
-Durante le edizioni del nostro festival, chi desidera partecipare a un LAB (o altre attività specifiche) deve effettuare un ordine di prenotazione. Sarà possibile prenotare attraverso il nostro shop su Pretix, una piattaforma adibita a tale scopo. Le lingue disponibili sono l'italiano e l'inglese. Il design dello shop è stato personalizzato utilizzando il logo di Scambi Festival e [la nuova palette di colori](design/color-palette.md) utilizzata sulle nostre piattaforme.
+Durante le edizioni del nostro festival, chi desidera partecipare a un Lab (o altre attività specifiche) deve effettuare un ordine di prenotazione.
 
-Accedendo allo shop è visibile una lista in cui sono elencate le giornate dell'edizione del festival.
+La prenotazione avviene tramite [Pretix](https://pretix.eu), un software open source che installato sul nostro server.
 
-{% hint style="info" %}
-Per l'edizione 2022, la lista conterrà i giorni compresi tra il 26 ed il 28 Agosto, inclusi. Il 25 non è visualizzato perché non sono presenti eventi che necessitino di prenotazione.
+La piattaforma è disponibile in diverse linque ed il design è customizzabile per renderlo coerente con la nostra immagine online.
+
+Accedendo allo shop è visibile una lista in cui sono elencate le giornate dell’edizione del festival.
+
+{% hint style="danger" %}
+La piattaforma di prenotazione è raggiungibile su [partecipa.scambi.org](https://partecipa.scambi.org). Tuttavia, per risparmiare i costi di mantenimento, il server è spento e irraggiungibile se non nel mese di agosto.
 {% endhint %}
 
 ### Come prenotare
 
-Cliccando su un elemento della lista, saranno visibili tutte le attività prenotabili previste per quella data, comprese eventuali attività serali. Esse vengono rappresentate mostrandone l'immagine, il titolo e la descrizione. Sotto ogni attività sono elencati i turni disponibili per la data specificata, ovvero l'ora, il luogo, il numero di _ticket_ ancora disponibili e, se il laboratorio prevede l'erogazione in multilingua, la lingua della rispettiva ripetizione.
+Cliccando su un elemento della lista, vengono mostrate tutte le attività prenotabili previste per quella data, comprese eventuali attività serali che richiedono prenotazione. Di ciascuna vengono mostrati immagine, titolo e descrizione. Sotto ogni attività sono elencati i turni disponibili per la data specificata, inclusi ora, luogo, i _ticket_ ancora disponibili e, se il laboratorio prevede l'erogazione in multilingua, lingua della rispettiva ripetizione.
 
 Ogni _ticket_ è nominativo, ma è possibile prenotarne più di uno alla volta, anche per attività diverse: è sufficiente aggiungere i _ticket_ desiderati all'interno del carrello e procedere alla conferma inserendo tutti i dati richiesti per ciascuno di essi. I ticket vengono riservati per 10 minuti, terminati i quali sara necessario ripetere la procedura.
 
@@ -57,11 +61,11 @@ In circostanze specifiche, durante l'effettuazione di un ordine, è possibile ut
 1. bypassare il _<mark style="color:red;">sold out</mark>_ di un'attività, garantendo la prenotazione di un _ticket_ indipendentemente da un'eventuale indisponibiltà;
 2. offrire servizi aggiuntivi, come la partecipazione ad eventi particolari accessibili solamente a chi possiede il codice, o regali, come gadget del festival (maglie, ecc.).
 
-## Controllo dei ticket
+### Controllo dei ticket
 
 Ad ogni _ticket_ è associato un nominativo; dunque, è eventualmente possibile verificarne la validità assieme ai dettagli dell'ordine ad esso associato.
 
-### Liste di _check-in e Ticket Checking_
+#### Liste di _check-in e Ticket Checking_
 
 Ogni _ticket_ prenotato viene aggiunto ad una lista di _check-in_ in base all'attività ad esso associata. È, inoltre, possibile creare liste di _check-in_ manualmente e con determinate caratteristiche per attività particolari. &#x20;
 
@@ -71,9 +75,9 @@ Pretix consente di controllare la validità di un _ticket_ tramite un'applicazio
 Una volta scansionato un _ticket_, scansionandolo una seconda volta risulterà già validato.
 {% endhint %}
 
-### Avvertenze nella verifica dei _ticket_
+#### Avvertenze nella verifica dei _ticket_
 
-La scansione dei _ticket_ è un'utile strumento per consentire allo staff di Scambi Festival di tenere traccia del numero di persone che prendono parte alle varie attività e di garantire un'efficace organizzazione. Infatti, scansionando un _ticket_, è possibile verificarne non solo la validità, ma anche se la persona ad esso associata ha richiesto assistenza durante la partecipazione, tramite apposito avviso.
+La scansione dei _ticket_ consente allo staff di Scambi Festival di tenere traccia del numero di persone che prendono parte alle varie attività. Scansionando un _ticket_ è possibile verificarne non solo la validità, ma anche se la persona ad esso associata ha richiesto assistenza durante la partecipazione, tramite apposito avviso.
 
 Tuttavia, è molto importante assicurarsi di scegliere la data e la lista di _check-in_ corretta, altrimenti i biglietti non risultano validi.
 

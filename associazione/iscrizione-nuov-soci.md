@@ -23,5 +23,5 @@ Se si tratta di un socio simpatizzante, **fermarsi al punto 6.1**.
    * _Scambi IDEE_
    * _ALLtristi_, su Whatsapp
    * Chat dei team di appartenenza
-7. Aggiungere a [x.scambi.org](../piattaforme-e-strumenti/x.scambi.org.md), nella cartella `/profile_pics/`, l’**immagine profilo** (<mark style="background-color:yellow;">rigorosamente in formato perfettamente quadrato!</mark>) del nuovo socio.
-8. Domandare ai [Paguri](../staff/teams/#paguri) o a [Silicon](../staff/teams/#silicon) di creare al nuovo socio un **account su** [**Nuvola**](../piattaforme-e-strumenti/nuvola/).
+7. Aggiungere a [x.scambi.org](../strumenti/x.scambi.org.md), nella cartella `/profile_pics/`, l’**immagine profilo** (<mark style="background-color:yellow;">rigorosamente in formato perfettamente quadrato!</mark>) del nuovo socio.
+8. Domandare ai [Paguri](../staff/teams/#paguri) o a [Silicon](../staff/teams/#silicon) di creare al nuovo socio un **account su** [**Nuvola**](../strumenti/nuvola/).

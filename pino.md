@@ -10,7 +10,7 @@ Pino è il database che contiente tutti i dati riguardanti _qualunque cosa_ di S
 
 ### Come
 
-Pino è gestito tramite un software specifico, chiamato [_Baserow_](piattaforme-e-strumenti/baserow.md). Tutto ciò che serve sapere sul suo funzionamento è spiegato [qui](piattaforme-e-strumenti/baserow.md).
+Pino è gestito tramite un software specifico, chiamato [_Baserow_](strumenti/baserow.md). Tutto ciò che serve sapere sul suo funzionamento è spiegato [qui](strumenti/baserow.md).
 
 ### Cosa
 

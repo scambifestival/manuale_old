@@ -9,7 +9,7 @@ Lo staff di Scambi Festival è suddiviso in **gruppi di lavoro**, o _team_. Cias
 I membri di ciascun gruppo (in realtà, il team di cui ciascun socio è parte) sono specificati nel Libro Soci.
 
 {% hint style="info" %}
-Se leggendo questa pagina lo smarrimento superasse la comprensione, non si esiti a contattare un [Team Leader](../team-leaders.md).
+Se leggendo questa pagina lo smarrimento superasse la comprensione, non si esiti a contattare un [Team Leader](../ruoli/team-leader.md).
 {% endhint %}
 
 ### Camaleonti
@@ -23,6 +23,8 @@ Le Civette si occupano della logistica del festival. Hanno sempre la risposta pr
 #### Falchi
 
 I falchi sono una squadra interna alle Civette che opera principalmente durante la fase straordinaria. Si tratta un gruppo sul pezzo, coeso, determinato, preciso. Si occupa di tutto il [lavoro amministrativo](../../relazioni/istituzioni/) per la realizzazione del festival.
+
+Poiché è necessario andare fisicamente in comune e comunicare frequentemente con gli uffici, sarebbe meglio che almeno uno dei falchi abbia già conoscenze negli uffici comunali o rapporti con il comune.
 
 ### Dissolvenze
 
@@ -42,11 +44,11 @@ Le Ghiandaie sono il team dedicato all’accessibilità. Il loro obiettivo è re
 
 ### Silicon
 
-L’unico gruppo _outsourced_, cioè composto da persone che non sono necessariamente ufficialmente parte dell’associazione. Hanno messo su e mantengono tutta la straordinaria [struttura tecnologica](../../base-knowledge/piattaforme-e-strumenti/) di Scambi.
+L’unico gruppo _outsourced_, cioè composto da persone che non sono necessariamente ufficialmente parte dell’associazione. Hanno messo su e mantengono tutta la straordinaria [struttura tecnologica](../../strumenti/) di Scambi.
 
 ### Paguri
 
-I Paguri si occupano della gestione delle piattaforme utili all'amministrazione del nostro Staff, lato _client_. Tutta l'[infrastruttura tecnologica](../../base-knowledge/piattaforme-e-strumenti/) dei nostri servizi è coordinata dai Paguri. Se riscontri qualche problema nell'uso di tali risorse, puoi rivolgerti a loro.
+I Paguri si occupano della gestione delle piattaforme utili all'amministrazione del nostro Staff, lato _client_. Tutta l'[infrastruttura tecnologica](../../strumenti/) dei nostri servizi è coordinata dai Paguri. Se riscontri qualche problema nell'uso di tali risorse, puoi rivolgerti a loro.
 
 ### Palanche
 
