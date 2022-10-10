@@ -27,6 +27,9 @@ Inoltre, di seguito una lista di contenuti che ancora non sono stati inseriti ma
   * Finish [Budgets’ history](../palanche/budget/history.md)
 * Finish [Budget](../palanche/budget/)
 * Write about Usignoli and concert planning workflow
+  * service and costs
+  * SIAE
+  * Lighting (lampioni + faro RGB)
 * Crowdfunding night organizing workflow
 * Post-festival todo list
 * Silicon to do and timing
@@ -36,10 +39,18 @@ Inoltre, di seguito una lista di contenuti che ancora non sono stati inseriti ma
 * Workflow of Lab production: timing, videocalls, people and teams involved
 * CSV Polis printing
 * Expenses report filing explanation
+* inviti nelle cassette della posta nelle case della Pigna
+* volantinaggio e brochure
+  * distribuire in locali, durante altre serate promuovere la nostra
+* Allestimento collettivo
+  * cos’è e perché
+  * cose da costruire:
+    * scritta \<q>sono un pinolo\</q> per i locali già esistenti alla Pigna
+    * insegne lab
+    * sgabellini e suppellettili vari
+    * pass (idealmente sagomati a forma di Pigna) per lo staff
+    * grossi pannelli con scritte (naturalmente a mano) sullo squilibrio, selezionate da Chiocciole e Dissolvenze, in linea con le opere di _SquiLibristi_ e le proiezioni di _Dissolvenze_
 * [Specific figures and roles](../staff/ruoli/)
-  * la Sgazzetta/lo Ssqualo: comunicazione con uffici comunali
-  * SMM
-  * referente Ufficio Stampa
   * lo scriba: — stesura e manutenzione documentazione
   * chi si occupa di organizzare crowdfunding
   * chi si occupa di organizzare eventi collaterali
