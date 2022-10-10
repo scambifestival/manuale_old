@@ -20,4 +20,4 @@ Il video di seguito riassume le funzionalità essenziali.
 
 ### Contenuti
 
-In Pino esistono diverse tabelle, ciascuna con un ruolo specifico. Nel tutorial sopra non sono specificati nel dettaglio i ruoli di ogni tabella ed i criteri di inserimento e catalogazione dei dati. Fare riferimento alla [pagina _Pino_](../pino.md) per comprenderne ogni passaggio.
+In Pino esistono diverse tabelle, ciascuna con un ruolo specifico. Nel tutorial sopra non sono specificati nel dettaglio i ruoli di ogni tabella ed i criteri di inserimento e catalogazione dei dati. Fare riferimento alla [pagina _Pino_](pino.md) per comprenderne ogni passaggio.

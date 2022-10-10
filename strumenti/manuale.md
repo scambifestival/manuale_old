@@ -34,8 +34,9 @@ Inoltre, di seguito una lista di contenuti che ancora non sono stati inseriti ma
 * Post-festival todo list
 * Silicon to do and timing
 * More in-depth Deck explanation for usage
-* Pino: add explanation of who is in “Persone” and who is in relazioni and who is in alloggi
-* Pino: add explanation of public data such as description, url and bio
+* Pino
+  * add explanation of who is in “Persone” and who is in relazioni and who is in alloggi
+  * add explanation of public data such as description, url and bio
 * Workflow of Lab production: timing, videocalls, people and teams involved
 * CSV Polis printing
 * Expenses report filing explanation

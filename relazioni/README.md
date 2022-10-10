@@ -4,7 +4,7 @@ description: Gli enti e le persone con cui collaboriamo
 
 # 👪 Relazioni
 
-Collaboriamo con una valanga di enti e persone. Le informazioni riguardanti ogni relazione sono registrate e tenute aggiornate [nell’omonima tabella](https://pino.scambi.org/database/61/table/320), su [Pino](../pino.md).
+Collaboriamo con una valanga di enti e persone. Le informazioni riguardanti ogni relazione sono registrate e tenute aggiornate [nell’omonima tabella](https://pino.scambi.org/database/61/table/320), su [Pino](../strumenti/pino.md).
 
 Possiamo suddividere ciascuna relazione nelle seguenti categorie (lo stesso ente o la stessa persona possono appartenere a più di una categoria contemporaneamente)
 
