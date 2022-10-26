@@ -37,8 +37,8 @@ To improve filtering specifically related to Scambi Festival stuff, here are som
 * **`lab`**: if it is a [Lab](../../format/lab.md), what Lab is it?
 * **`location_tag`**: name of the location; for example, it could be `Piazza Santa Brigida`, `Piazzetta dei Ferri`, `Il Buco`, `La Ciotola`, `Via Tapoletti`… a complete list of the locations is [in this table](https://pino.scambi.org/database/61/table/322), on [Pino](../pino.md)
 * **`relations`**: name of the entity hosting this activity, consistent with the Relation database on Pino
-* **`rating`**:
-* **`cubbit_path`**:
+* **`rating`**: set it as Cool for items that are particularly nice, and as Best of for items that are perfect to narrate the festival. Note that “Best of” is a subset of “Cool”: all “Best of” items are “Cool”, but not all “Cool” items are “Best of”.
+* **`cubbit_path`**: the path to this item in [Cubbit](https://web.cubbit.io)
 
 ### Searching
 
@@ -52,5 +52,6 @@ Here are some useful resources to master this extremely useful tool.
 #### Examples
 
 * [Scambi Festival 2022 pictures rated “Best of”](https://archive.org/search.php?query=collection%3A%28scambi-2022%29%20AND%20rating%3A%28Best%20of%29) — search query: `collection:(scambi-2022) AND rating:(Best of)`
-* All of Scambi Festival’s images taken in Piazza Santa Brigida (during any edition) — search query: `subject:(Scambi Festival) AND location_tag:(Piazza Santa Brigida)`
-* Best of Scambi Festival 2022 Pictures taken in Piazza Cassini
+* [All of Scambi Festival’s images taken in Piazza Santa Brigida (during any edition)](https://archive.org/search.php?query=subject%3A%28Scambi%20Festival%29%20AND%20location\_tag%3A%28Piazza%20Santa%20Brigida%29) — search query: `subject:(Scambi Festival) AND location_tag:(Piazza Santa Brigida)`
+* [Best of Scambi Festival 2022 Pictures taken in Piazza Cassini](https://archive.org/search.php?query=subject%3A%28Scambi%20Festival%29%20AND%20location\_tag%3A%28Piazza%20Cassini%29%20AND%20rating%3A%28Best%20of%29) — search query: `subject:(Scambi Festival) AND location_tag:(Piazza Cassini) AND rating:(Best of)`
+* [Any picture concerning Barrio BuiDLers and Scambi Festival](https://archive.org/search.php?query=subject%3A%28Scambi%20Festival%29%20AND%20relations%3A%28Barrio%20BuiDLers%29) — search query: `subject:(Scambi Festival) relations:(Barrio BuiDLers)`

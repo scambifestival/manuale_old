@@ -12,7 +12,6 @@ Fra i valori fondamentali della [filosofia di Scambi](https://scambi.org/manifes
 * [**Cubbit**](https://web.cubbit.io) è il nostro archivio: qui vengono salvati tutti i nostri video e le nostre foto, così come tutti i file più pesanti che non apriamo spesso. Per accedere, utilizzare [le credenziali condivise](https://nuvola.scambi.org/apps/passwords).
 * [**Buttondown**](https://buttondown.email) è il servizio che utilizziamo per inviare [_Scambi Epistolari_](https://epistulae.scambi.org), la nostra **newsletter**. Per utilizzarlo, fare riferimento a [questo tutorial](buttondown.md).
 * [**Canva**](https://canva.com) è lo strumento utilizzato principalmente dalle [Libellule](../staff/teams/#libellule) per creare le grafiche dei nostri post. Utilizziamo Canva Premium, perciò se dedideri avere l’accesso fatti inviare un link dai membri del team.
-* Su [_**Internet Archive**_](https://archive.org) sono raccolte tutti i contenuti audiovisivi di tutte le edizioni di Scambi, ordinati e selezionati per genere di evento e attività. Per accedere, utilizzare [le credenziali condivise](https://nuvola.scambi.org/apps/passwords).
 
 {% hint style="info" %}
 Per qualunque problema tecnico, <mark style="background-color:yellow;">compilare</mark> [<mark style="background-color:yellow;">questo modulo</mark>](https://nuvola.scambi.org/apps/forms/qtqRxnSic6fTpmKk) e **contattare il gruppo** [**Silicon**](../staff/teams/#silicon).
