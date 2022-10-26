@@ -57,6 +57,7 @@
   * [📧 Email](strumenti/email.md)
   * [📖 Manuale](strumenti/manuale.md)
   * [🌲 Pino](strumenti/pino.md)
+  * [💾 Storage management](strumenti/storage-management.md)
   * [Markdown](strumenti/markdown.md)
   * [Buttondown](strumenti/buttondown.md)
   * [Baserow](strumenti/baserow.md)
