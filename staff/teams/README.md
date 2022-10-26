@@ -44,11 +44,11 @@ Le Ghiandaie sono il team dedicato all’accessibilità. Il loro obiettivo è re
 
 ### Silicon
 
-L’unico gruppo _outsourced_, cioè composto da persone che non sono necessariamente ufficialmente parte dell’associazione. Hanno messo su e mantengono tutta la straordinaria [struttura tecnologica](../../strumenti/) di Scambi.
+L’unico gruppo _outsourced_, cioè composto da persone che non sono necessariamente ufficialmente parte dell’associazione. Hanno messo su e mantengono tutta la straordinaria [struttura tecnologica](../../tools/) di Scambi.
 
 ### Paguri
 
-I Paguri si occupano della gestione delle piattaforme utili all'amministrazione del nostro Staff, lato _client_. Tutta l'[infrastruttura tecnologica](../../strumenti/) dei nostri servizi è coordinata dai Paguri. Se riscontri qualche problema nell'uso di tali risorse, puoi rivolgerti a loro.
+I Paguri si occupano della gestione delle piattaforme utili all'amministrazione del nostro Staff, lato _client_. Tutta l'[infrastruttura tecnologica](../../tools/) dei nostri servizi è coordinata dai Paguri. Se riscontri qualche problema nell'uso di tali risorse, puoi rivolgerti a loro.
 
 ### Palanche
 

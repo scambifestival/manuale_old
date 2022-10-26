@@ -34,11 +34,11 @@ The Jaybirds are the team dealing with accessibility. Their main aim is to make 
 
 ### Silicon
 
-The only _outsourced_ group, meaning that it is composed of people which are not necessarily officially member of the association. They have created and they keep the extraordinary [technological structure](../../strumenti/) of Scambi going.
+The only _outsourced_ group, meaning that it is composed of people which are not necessarily officially member of the association. They have created and they keep the extraordinary [technological structure](../../tools/) of Scambi going.
 
 ### Hermit crabs
 
-The hermit crabs deal with the management of the platforms helpful in managing our staff, _client_ side. The whole [technological infrastructure](../../strumenti/) of our services is coordinated by the Hermit crabs. When having a problem while using such resources, you can speak to them.
+The hermit crabs deal with the management of the platforms helpful in managing our staff, _client_ side. The whole [technological infrastructure](../../tools/) of our services is coordinated by the Hermit crabs. When having a problem while using such resources, you can speak to them.
 
 ### Copper coins
 

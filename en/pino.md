@@ -14,4 +14,4 @@ Pino mostly collects data about people and what they do in relation to Scambi. R
 
 ### How
 
-Pino is handled through a software named [Baserow](../strumenti/baserow.md), and everything you need to know about it is thorougly explained [here](../strumenti/baserow.md).
+Pino is handled through a software named [Baserow](../tools/baserow.md), and everything you need to know about it is thorougly explained [here](../tools/baserow.md).

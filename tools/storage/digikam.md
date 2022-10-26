@@ -1,21 +1,16 @@
 ---
-description: How we manage the overwhelming amount of Scambi Festival’s media
+description: >-
+  Our workflow in exploiting the software we user for managing Scambi Festival’s
+  images
 ---
 
-# 💾 Storage management
+# 📷 digiKam
 
-{% hint style="danger" %}
-### Be careful❗️
-
-The following process is cumbersome and quite stressful by itself, but it can easily turn into a nightmare if the following precautions are not followed:
-
-* Ensuring that date, time and time zone are **correct** and **consistent** across all cameras
-* Store pictures in one folder for each creator
+{% hint style="info" %}
+Please, do <mark style="background-color:yellow;">read the</mark> [<mark style="background-color:yellow;">Storage management</mark>](./) <mark style="background-color:yellow;">page first</mark>!
 {% endhint %}
 
-### digiKam
-
-To manage and store each event’s pictures, we use [digiKam](https://digikam.org), a powerful and cool open source software specifically crefted for this purpose.
+To manage and store each event’s pictures, we use [digiKam](https://digikam.org), a powerful and cool open source software specifically crafted for this purpose.
 
 1. Ensure pictures’ metadata correctness (see warning above)
 2. Rename pictures according to their date, stored into the EXIF metadata, using the following format: `[date:yyyy.MM.dd-HH.mm.ss]{unique}`
@@ -33,13 +28,3 @@ To manage and store each event’s pictures, we use [digiKam](https://digikam.or
     1. People’s face detection
     2. People’s face recognition
 11. In order to upload the pictures in batch to the Internet Archive, all media and their metadata should be parsed in a CSV file. To do this, let’s use digiKam’s “Batch Queue Manager” and use the “custom shell script” tool, with this input: `echo "\"$INPUT\",$COLORLABEL,$TAGSPATH" >> ~/Desktop/ia-scambi.csv`
-
-### Internet Archive
-
-In order to make Internet Archive backups actually useful, a lot of metadata should be added to each item being uploaded, so that—thanks to the powerful and clever IA search queries’ features—finding pictures and videos about what you are looking for is quick and simple.
-
-Fill the information according to [this reference CSV file](https://x.scambi.org/scambi-archive.org-reference.csv).
-
-* ARCHIVE.ORG
-* TOSAVE
-* NOT\_COMPLETE
