@@ -60,6 +60,7 @@
   * [💾 Storage management](tools/storage/README.md)
     * [📷 digiKam](tools/storage/digikam.md)
     * [🏛 Internet Archive](tools/storage/ia.md)
+    * [🖇 Cubbit](tools/storage/cubbit.md)
   * [Markdown](tools/markdown.md)
   * [Buttondown](tools/buttondown.md)
   * [Baserow](tools/baserow.md)

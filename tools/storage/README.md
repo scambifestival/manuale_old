@@ -26,7 +26,7 @@ The following process is cumbersome and quite stressful by itself, but it can ea
 1. During each event, everything that is shot has to be backed up (at least) daily on (at least) to local hard drives.
 2. When the event finishes, usually the hard disks owners part ways and they bring their devices with them (since our associations owns none, so far)
 3. In a synchronized effort, those who have the hard disks should [select, sort, tag, and edit the event’s pictures, using digiKam](./#digikam).
-4. Once everything is properly arranged, ther whole digiKam database folder is uploaded to our [Cubbit](https://web.cubbit.io).
+4. Once everything is properly arranged, ther whole digiKam database folder is uploaded to our [Cubbit](cubbit.md).
 5. Lastly, a copy of all the media is to be [uploaded on the Internet Archive](./#internet-archive).
 
 {% hint style="info" %}
