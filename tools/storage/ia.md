@@ -27,6 +27,19 @@ Fill the information according to [this reference CSV file](https://x.scambi.org
 * **``**[**`creator`**](https://archive.org/developers/metadata-schema/#creator): if the author is known, use their name; otherwise, write `Scambi Festival`
 * **``**[**`coverage`**](https://archive.org/developers/metadata-schema/#coverage): the item location in ISO standard format (for us it is `IT-IM`)
 * **``**[**`licenseurl`**](https://archive.org/developers/metadata-schema/#licenseurl): the URL of the license for the image. If it is a graphics or something created from scratch, we use [`https://creativecommons.org/licenses/by-nd/1.0/`](https://creativecommons.org/licenses/by-nd/1.0/), but usually we go for [`https://creativecommons.org/licenses/by-sa/4.0/`](https://creativecommons.org/licenses/by-sa/4.0/)``
+* **`subject`**: list of the topics related to that item. In particular we use:
+  * `Scambi Festival`, always
+  * `Scambi Festival [EDITION]`, for example `Scambi Festival 2021`, or `Scambi Festival Present(a) 2022`
+  * what (see below)
+  * Lab/Pinolo/activity name, for example `Attivismo a costo zero`, or `Da Capo`
+  * location information
+    * `Sanremo` (city)
+    * `La Pigna` (neighborhood)
+    * Specific location name, for example `Piazza Cassini` or `La Ciotola`
+  * (`interview`) if it is an interview
+  * relation(s), for example `Understanding Europe`, or `Jennifer Guerra` (see below)
+  * (`Cool` and/or `Best of` (see below))
+  * (extra related info, for example `migration`/`art`/`physics`…
 
 #### Custom
 
